@@ -1,0 +1,21 @@
+# Disposable processing artifacts
+.tmp/
+
+# Quartz — cloned at build time, not committed
+.quartz/
+
+# Quartz build output
+public/
+
+# Node modules (Quartz dependency)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Obsidian workspace files (optional — keep if you want consistent layout)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Environment / secrets (never commit)
+.env

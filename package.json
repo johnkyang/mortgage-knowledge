@@ -1,0 +1,12 @@
+{
+  "name": "fannie-mae-underwriting-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fannie Mae underwriting knowledge system built with Quartz",
+  "scripts": {
+    "setup": "git clone --depth=1 https://github.com/jackyzha0/quartz.git .quartz && cd .quartz && npm install",
+    "build": "cd .quartz && npx quartz build --directory ../wiki --output ../public",
+    "preview": "cd .quartz && npx quartz build --directory ../wiki --output ../public && npx quartz serve",
+    "install-and-build": "npm run setup && npm run build"
+  }
+}
