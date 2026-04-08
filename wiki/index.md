@@ -14,16 +14,16 @@
 [[borrower-eligibility]] · [[citizenship-residency-status]] · [[non-occupant-co-borrower]] · [[inter-vivos-trust]] · [[power-of-attorney]]
 
 ### Income
-[[base-salary-hourly-income]] · [[self-employed-income]] · [[rental-income]] · [[bonus-income]] · [[overtime-income]] · [[commission-income]] · [[retirement-pension-social-security]] · [[asset-depletion-income]] · [[temporary-leave-income]] · [[alimony-child-support-received]] · [[military-income]] · [[foreign-income]]
+[[base-salary-hourly-income]] · [[self-employed-income]] · [[rental-income]] · [[bonus-overtime-commission-income|bonus/overtime/commission income]] · [[social-security-retirement-income|social security/retirement income]] · [[trust-income]] · [[asset-depletion-income]] · [[temporary-leave-income]] · [[continuity-of-income]] · [[alimony-child-support-received]] · [[military-income]] · [[foreign-income]]
 
 ### Assets
 [[asset-verification-documentation]] · [[gift-funds]] · [[gift-of-equity]] · [[large-deposits]] · [[minimum-borrower-contribution]] · [[interested-party-contributions]] · [[ineligible-assets]] · [[retirement-accounts]] · [[stocks-bonds-mutual-funds]] · [[reserves]] · [[business-assets]] · [[earnest-money-deposit]] · [[funds-required-to-close]] · [[trade-equity]] · [[sale-of-personal-assets]] · [[cryptocurrency]] · [[credit-card-financing-reward-points]] · [[grants-dpa]]
 
 ### Credit
-[[credit-score-requirements]] · [[minimum-tradelines]] · [[collections-chargeoffs]] · [[disputed-accounts]] · [[bankruptcy]] · [[foreclosure]] · [[short-sale-deed-in-lieu]] · [[housing-payment-history]] · [[no-credit-score-borrowers]] · [[credit-bureau-report-requirements]] · [[credit-report-inquiries]] · [[credit-score-selection]] · [[derogatory-credit-event-seasoning]] · [[disputed-tradelines]] · [[frozen-credit-bureaus]] · [[mortgage-history]] · [[nontraditional-credit-history]] · [[past-due-collections-chargeoffs]]
+[[credit-score-requirements]] · [[minimum-tradelines]] · [[past-due-collections-chargeoffs|collections/chargeoffs]] · [[disputed-tradelines|disputed accounts]] · [[bankruptcy]] · [[foreclosure]] · [[short-sale-deed-in-lieu]] · [[no-credit-score-borrowers]] · [[credit-bureau-report-requirements]] · [[credit-report-inquiries]] · [[credit-score-selection]] · [[derogatory-credit-event-seasoning]] · [[frozen-credit-bureaus]] · [[mortgage-history]] · [[nontraditional-credit-history]]
 
 ### Liabilities
-[[student-loans]] · [[installment-debt-10-month]] · [[alimony-child-support-paid]] · [[business-debt-in-borrower-name]] · [[dti-limits]] · [[contingent-liabilities]] · [[liabilities-overview]] · [[authorized-user-accounts]] · [[contingent-liabilities-debts-paid-by-others]] · [[departure-residence-pending-sale]] · [[property-tax-qualification]] · [[irs-installment-agreements]] · [[loans-secured-by-financial-asset]] · [[monthly-housing-expense]] · [[open-30-day-accounts]] · [[revolving-accounts]] · [[secondary-subordinate-financing]] · [[student-loan-payments]] · [[timeshares]] · [[total-monthly-debt-obligations]]
+[[liabilities-overview]] · [[student-loan-payments|student loans]] · [[installment-debt-10-month]] · [[alimony-child-support-paid]] · [[business-debt-in-borrower-name]] · [[dti-limits]] · [[contingent-liabilities-debts-paid-by-others|contingent liabilities]] · [[authorized-user-accounts]] · [[departure-residence-pending-sale]] · [[property-tax-qualification]] · [[irs-installment-agreements]] · [[loans-secured-by-financial-asset]] · [[monthly-housing-expense]] · [[open-30-day-accounts]] · [[revolving-accounts]] · [[secondary-subordinate-financing]] · [[timeshares]] · [[total-monthly-debt-obligations]]
 
 ### Property
 [[property-types]] · [[condo-eligibility]] · [[manufactured-housing]] · [[2-4-unit-properties]] · [[mixed-use-properties]] · [[accessory-dwelling-units]]
