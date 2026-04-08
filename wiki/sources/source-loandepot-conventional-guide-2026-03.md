@@ -2,7 +2,7 @@
 title: "Source: loanDepot Conventional Lending Guide (March 2026)"
 type: source
 tags: [lender, conventional, income, assets, liabilities, credit, property]
-related: [self-employed-income, rental-income, bonus-overtime-commission-income, temporary-leave-income, social-security-retirement-income, asset-depletion-income, continuity-of-income, gift-funds]
+related: [self-employed-income, rental-income, bonus-overtime-commission-income, temporary-leave-income, social-security-retirement-income, asset-depletion-income, continuity-of-income, gift-funds, no-credit-score-borrowers, credit-bureau-report-requirements, credit-report-inquiries, credit-score-selection, derogatory-credit-event-seasoning, disputed-tradelines, frozen-credit-bureaus, mortgage-history, nontraditional-credit-history, past-due-collections-chargeoffs]
 trust_level: lender
 status: active
 last_updated: 2026-04-07
@@ -36,7 +36,17 @@ loanDepot's internal conventional underwriting guide covering credit policy, inc
 
 ### Assets (Pages 275–312) — _pending ingestion_
 ### Liabilities (Pages 250–274) — _pending ingestion_
-### Credit (Pages 313–325) — _pending ingestion_
+### Credit (Pages 313–325)
+- [[no-credit-score-borrowers]] — Eligibility when no borrower has a credit score
+- [[credit-bureau-report-requirements]] — Tri-merge report requirements; accepted repositories
+- [[credit-report-inquiries]] — LOE requirements, 90-day window, DU/LPA inquiry analysis
+- [[credit-score-selection]] — Representative credit score determination (FNMA/FHLMC)
+- [[derogatory-credit-event-seasoning]] — Waiting periods for bankruptcy, foreclosure, deed-in-lieu, short sale
+- [[disputed-tradelines]] — DU two-pass analysis; FHLMC LPA approach
+- [[frozen-credit-bureaus]] — Eligibility when one or more bureaus are frozen
+- [[mortgage-history]] — Current mortgage status, 12-month history, excessive delinquency
+- [[nontraditional-credit-history]] — Minimum references, housing payment requirement
+- [[past-due-collections-chargeoffs]] — Payoff thresholds by occupancy type (FNMA)
 
 ## Key Excerpts
 

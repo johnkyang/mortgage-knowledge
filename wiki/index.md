@@ -20,7 +20,7 @@
 [[gift-funds]] · [[large-deposits]] · [[gift-of-equity]] · [[grants-dpa]] · [[retirement-accounts]] · [[business-funds]] · [[sale-of-assets]] · [[earnest-money-deposit]] · [[borrowed-funds]]
 
 ### Credit
-[[credit-score-requirements]] · [[minimum-tradelines]] · [[collections-chargeoffs]] · [[disputed-accounts]] · [[bankruptcy]] · [[foreclosure]] · [[short-sale-deed-in-lieu]] · [[housing-payment-history]]
+[[credit-score-requirements]] · [[minimum-tradelines]] · [[collections-chargeoffs]] · [[disputed-accounts]] · [[bankruptcy]] · [[foreclosure]] · [[short-sale-deed-in-lieu]] · [[housing-payment-history]] · [[no-credit-score-borrowers]] · [[credit-bureau-report-requirements]] · [[credit-report-inquiries]] · [[credit-score-selection]] · [[derogatory-credit-event-seasoning]] · [[disputed-tradelines]] · [[frozen-credit-bureaus]] · [[mortgage-history]] · [[nontraditional-credit-history]] · [[past-due-collections-chargeoffs]]
 
 ### Liabilities
 [[student-loans]] · [[installment-debt-10-month]] · [[alimony-child-support-paid]] · [[business-debt-in-borrower-name]] · [[dti-limits]] · [[contingent-liabilities]]
@@ -56,12 +56,18 @@
 
 ## Recent Additions
 
+- [[no-credit-score-borrowers]] — No Credit Score Borrowers (Credit)
+- [[credit-bureau-report-requirements]] — Credit Bureau & Report Requirements (Credit)
+- [[credit-report-inquiries]] — Credit Report Inquiries & LOE (Credit)
+- [[credit-score-selection]] — Credit Score Selection / Representative Score (Credit)
+- [[derogatory-credit-event-seasoning]] — Derogatory Credit Event Seasoning (Credit)
+- [[disputed-tradelines]] — Disputed Tradelines (Credit)
+- [[frozen-credit-bureaus]] — Frozen Credit Bureaus (Credit)
+- [[mortgage-history]] — Mortgage History / Payment History (Credit)
+- [[nontraditional-credit-history]] — Nontraditional Credit History (Credit)
+- [[past-due-collections-chargeoffs]] — Past Due, Collections & Charge-Offs (Credit)
 - [[gift-funds]] — Gift Funds (Assets)
 - [[source-selling-guide-b3-4.3-04]] — Selling Guide B3-4.3-04 (source)
-- [[scenario-gift-large-deposit]] — Scenario: Gift Funds with Large Deposit
-- [[def-interested-party-contribution]] — Definition: Interested Party Contribution
-- [[checklist-gift-funds-docs]] — Checklist: Gift Fund Documentation
-- [[decision-gift-eligibility]] — Decision: Gift Fund Eligibility by Loan Type
 
 ---
 
@@ -70,10 +76,10 @@ _Updated during each ingestion_
 
 | Type | Count |
 |------|-------|
-| Topics | 1 |
+| Topics | 18 |
 | Scenarios | 1 |
-| Sources | 1 |
+| Sources | 2 |
 | Definitions | 1 |
 | Checklists | 1 |
 | Decision Trees | 1 |
-| **Total** | **6** |
+| **Total** | **24** |

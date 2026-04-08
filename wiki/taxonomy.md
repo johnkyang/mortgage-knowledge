@@ -63,20 +63,23 @@ Pages not yet created appear as plain text. Created pages appear as wikilinks.
 - Trade Equity
 
 ## Credit
-- Credit Score Requirements
+- [[credit-bureau-report-requirements|Credit Bureau & Report Requirements]]
+- [[credit-score-selection|Credit Score Selection (Representative Score)]]
+- [[no-credit-score-borrowers|No Credit Score Borrowers]]
+- [[frozen-credit-bureaus|Frozen Credit Bureaus]]
+- [[credit-report-inquiries|Credit Report Inquiries & LOE]]
+- [[nontraditional-credit-history|Nontraditional Credit History]]
 - Minimum Tradelines
-- Non-Traditional Credit
 - Authorized User Accounts
-- Disputed Accounts
-- Collections / Charge-Offs
+- [[disputed-tradelines|Disputed Tradelines]]
+- [[past-due-collections-chargeoffs|Past Due, Collections & Charge-Offs (Non-Mortgage)]]
 - Judgments / Liens
-- Significant Derogatory Events
+- [[derogatory-credit-event-seasoning|Derogatory Credit Event Seasoning]]
   - Bankruptcy (Ch 7, Ch 13)
   - Foreclosure
   - Short Sale / Deed-in-Lieu
   - Pre-Foreclosure
-- Housing Payment History
-- Mortgage Delinquency
+- [[mortgage-history|Mortgage History & Payment History]]
 
 ## Liabilities
 - Revolving Debt
