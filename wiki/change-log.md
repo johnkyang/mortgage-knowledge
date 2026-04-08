@@ -4,6 +4,16 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Assets Section (pp. 275–312)
+
+- **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)
+- **Pages created**: [[asset-verification-documentation]], [[business-assets]], [[credit-card-financing-reward-points]], [[cryptocurrency]], [[earnest-money-deposit]], [[funds-required-to-close]], [[gift-of-equity]], [[ineligible-assets]], [[interested-party-contributions]], [[large-deposits]], [[minimum-borrower-contribution]], [[stocks-bonds-mutual-funds]], [[reserves]], [[retirement-accounts]], [[sale-of-personal-assets]], [[trade-equity]]
+- **Pages updated**: [[gift-funds]] (added FHLMC donor eligibility, second-home rule, transfer method requirements), [[source-loandepot-conventional-guide-2026-03]], [[hot]], [[index]], [[taxonomy]], [[change-log]]
+- **Open questions added**: 0 (2 existing remain; removed stale large-deposit entry now resolved by ingestion)
+- **Notes**: Assets section fully processed (38 pages, pp. 275–312). 16 new topic pages created. Notable rules: Large deposit threshold is 50% of monthly qualifying income (FNMA) or 50% of qualifying income plus asset-depletion income (FHLMC); purchase deposits need sourcing only if needed to qualify (FNMA); FHLMC requires sourcing if used to pay down debt regardless of amount; IPC limits by occupancy/LTV (3%/6%/9% primary+2nd home, 2% investment); gift of equity exempt from IPC limits if requirements met; 20% buffer rule means no liquidation evidence required for stocks/bonds/retirement if combined value ≥ 120% of closing need (FNMA and FHLMC); cryptocurrency ineligible in raw form — must convert to USD. Income (pp. 155–249), Liabilities (pp. 250–274), and Credit (pp. 313–325) sections previously ingested. loanDepot conventional guide now fully ingested.
+
+---
+
 ## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Liabilities Section (pp. 250–274)
 
 - **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)

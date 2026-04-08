@@ -2,8 +2,8 @@
 title: Gift Funds
 type: topic
 tags: [assets, gift-funds, down-payment, documentation]
-sources: [source-selling-guide-b3-4.3-04]
-related: [gift-of-equity, large-deposits, checklist-gift-funds-docs, decision-gift-eligibility, def-interested-party-contribution, scenario-gift-large-deposit]
+sources: [source-selling-guide-b3-4.3-04, source-loandepot-conventional-guide-2026-03]
+related: [gift-of-equity, large-deposits, checklist-gift-funds-docs, decision-gift-eligibility, def-interested-party-contribution, scenario-gift-large-deposit, minimum-borrower-contribution, interested-party-contributions]
 confidence: verified
 status: active
 last_updated: 2026-04-07
@@ -72,6 +72,41 @@ See [[checklist-gift-funds-docs]] for the complete documentation checklist.
 - In practice, underwriters often require 60 days of donor bank statements when the gift represents a large portion of total assets, even when the Selling Guide only requires documentation of the most recent statement. This is a common lender overlay, not a Fannie Mae requirement.
 - When gift funds are wired directly to closing, some lenders accept the HUD-1/CD as evidence of receipt without a separate bank statement showing the deposit. Confirm with lender policy.
 
+## Lender Notes — loanDepot Conventional Guide (March 2026)
+
+The following rules apply under loanDepot's policy. Where they differ from or expand upon the Selling Guide, they represent loanDepot overlays or lender-level documentation of FHLMC requirements.
+
+**General (FNMA and FHLMC)**:
+- Gift funds are allowed for **principal residence and second home** only; not for investment properties. (Lender note: [[source-loandepot-conventional-guide-2026-03]])
+- Gift letter must: specify actual or maximum dollar amount; specify the date funds were transferred; include donor's statement that no repayment is expected; include donor's name, address, telephone number, and relationship to borrower; be signed and dated by the donor. (Lender note: [[source-loandepot-conventional-guide-2026-03]])
+- When gift funds from a relative or domestic partner are pooled with borrower's funds for minimum required funds: certification from donor that donor has lived with borrower for the last 12 months and will continue to live with them in the new residence, plus documentation of shared residence (e.g., driver's license, bank statement) is required. (Lender note: [[source-loandepot-conventional-guide-2026-03]])
+- Acceptable fund transfer documentation includes: copy of donor's check and borrower's deposit slip; copy of donor's withdrawal slip and borrower's deposit slip; copy of donor's check to the closing agent; or settlement statement showing receipt of donor's check. (Lender note: [[source-loandepot-conventional-guide-2026-03]])
+- If funds are not transferred prior to settlement: lender must document that the donor gave the closing agent the gift funds in the form of a certified check, cashier's check, or other official check. (Lender note: [[source-loandepot-conventional-guide-2026-03]])
+
+**FNMA eligible donors (loanDepot)**:
+- Relative: spouse, child, other dependent, or any individual related by blood, marriage, adoption, or legal guardianship
+- Non-relative with familial relationship: domestic partner (or relative of domestic partner), individual engaged to marry the borrower, former relative, or individual with a long-standing familial-like or mentorship relationship
+- Estate or trust established by an eligible donor
+- Seller who is also an acceptable donor and not affiliated with any other interested party (allowed)
+- Donor of a gift of equity is not considered an interested party
+
+**FHLMC eligible donors (loanDepot)**:
+- A Related Person: spouse, child, or dependent; individual related by blood, marriage, or adoption; guardian of borrower; person for whom borrower is guardian; fiancée or fiancé; domestic partner; unrelated individual with close, family-like ties
+- A trust established by a Related Person
+- The estate of a Related Person
+- **Second home special rule**: When LTV/TLTV/HTLTV > 80%, gift funds are permitted only if borrower has made a down payment of at least **5% from personal funds**.
+- Gift funds must be transferred directly from the donor's account to the borrower's account or to the settlement/closing agent. Exception: for EMD, donor may also provide funds directly to a builder or real estate agent.
+- Third-party money transfer applications (e.g., Zelle, Venmo) are acceptable only when the file documents that funds were transferred from the donor's bank account to borrower's bank account or settlement agent.
+
+(Lender note: [[source-loandepot-conventional-guide-2026-03]])
+
+**Gift funds for Earnest Money Deposit (both GSEs)**:
+- If EMD comes from gift funds, the donor may provide funds directly to a builder or real estate agent.
+- Signed gift letter required, plus evidence of transfer from donor's financial institution account to the EMD holder (canceled gift check, cashier's check, or wire confirmation).
+
+(Lender note: [[source-loandepot-conventional-guide-2026-03]])
+
 ## Sources
 
 - [[source-selling-guide-b3-4.3-04]] — Fannie Mae Selling Guide B3-4.3-04 (Personal Gifts)
+- [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), pp. 286–289

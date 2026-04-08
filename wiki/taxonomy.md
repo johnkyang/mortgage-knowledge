@@ -46,21 +46,27 @@ Pages not yet created appear as plain text. Created pages appear as wikilinks.
 - Verbal VOE Requirements
 
 ## Assets
+- [[asset-verification-documentation|Asset Verification & Documentation]]
 - Checking / Savings
 - [[gift-funds|Gift Funds]]
-- Gift of Equity
+- [[gift-of-equity|Gift of Equity]]
 - Grants / DPA
-- Retirement Accounts (401k, IRA)
-- Stocks / Bonds / Mutual Funds
-- Business Funds
-- Sale of Assets
-- Large Deposits
-- Earnest Money Deposit
-- Cash to Close
+- [[retirement-accounts|Retirement Accounts (401k, IRA)]]
+- [[stocks-bonds-mutual-funds|Stocks / Bonds / Mutual Funds]]
+- [[business-assets|Business Assets]]
+- [[sale-of-personal-assets|Sale of Personal Assets]]
+- [[large-deposits|Large Deposits]]
+- [[earnest-money-deposit|Earnest Money Deposit]]
+- [[funds-required-to-close|Funds Required to Close (Cash to Close)]]
 - Proceeds from Sale of Home
 - Borrowed Funds (secured/unsecured)
 - Cash Value Life Insurance
-- Trade Equity
+- [[trade-equity|Trade Equity]]
+- [[ineligible-assets|Ineligible Assets]]
+- [[cryptocurrency|Cryptocurrency]]
+- [[credit-card-financing-reward-points|Credit Card Financing & Reward Points]]
+- [[minimum-borrower-contribution|Minimum Borrower Contribution]]
+- [[reserves|Reserves]]
 
 ## Credit
 - [[credit-bureau-report-requirements|Credit Bureau & Report Requirements]]
@@ -168,7 +174,8 @@ Pages not yet created appear as plain text. Created pages appear as wikilinks.
 - Bank Statement Requirements
 
 ## Compliance / Regulatory
-- [[def-interested-party-contribution|Interested Party Contributions]]
+- [[interested-party-contributions|Interested Party Contributions (IPCs)]]
+- [[def-interested-party-contribution|IPC Definition]]
 - TRID Considerations
 - QM / ATR
 - Anti-Steering

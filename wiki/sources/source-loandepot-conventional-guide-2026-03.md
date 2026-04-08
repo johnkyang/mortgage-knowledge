@@ -2,7 +2,7 @@
 title: "Source: loanDepot Conventional Lending Guide (March 2026)"
 type: source
 tags: [lender, conventional, income, assets, liabilities, credit, property]
-related: [self-employed-income, rental-income, bonus-overtime-commission-income, temporary-leave-income, social-security-retirement-income, asset-depletion-income, continuity-of-income, gift-funds, no-credit-score-borrowers, credit-bureau-report-requirements, credit-report-inquiries, credit-score-selection, derogatory-credit-event-seasoning, disputed-tradelines, frozen-credit-bureaus, mortgage-history, nontraditional-credit-history, past-due-collections-chargeoffs, liabilities-overview, alimony-child-support-paid, authorized-user-accounts, business-debt-in-borrower-name, contingent-liabilities-debts-paid-by-others, departure-residence-pending-sale, property-tax-qualification, irs-installment-agreements, loans-secured-by-financial-asset, monthly-housing-expense, open-30-day-accounts, revolving-accounts, secondary-subordinate-financing, student-loan-payments, timeshares, total-monthly-debt-obligations]
+related: [self-employed-income, rental-income, bonus-overtime-commission-income, temporary-leave-income, social-security-retirement-income, asset-depletion-income, continuity-of-income, gift-funds, no-credit-score-borrowers, credit-bureau-report-requirements, credit-report-inquiries, credit-score-selection, derogatory-credit-event-seasoning, disputed-tradelines, frozen-credit-bureaus, mortgage-history, nontraditional-credit-history, past-due-collections-chargeoffs, liabilities-overview, alimony-child-support-paid, authorized-user-accounts, business-debt-in-borrower-name, contingent-liabilities-debts-paid-by-others, departure-residence-pending-sale, property-tax-qualification, irs-installment-agreements, loans-secured-by-financial-asset, monthly-housing-expense, open-30-day-accounts, revolving-accounts, secondary-subordinate-financing, student-loan-payments, timeshares, total-monthly-debt-obligations, asset-verification-documentation, business-assets, credit-card-financing-reward-points, cryptocurrency, earnest-money-deposit, funds-required-to-close, gift-of-equity, ineligible-assets, interested-party-contributions, large-deposits, minimum-borrower-contribution, stocks-bonds-mutual-funds, reserves, retirement-accounts, sale-of-personal-assets, trade-equity]
 trust_level: lender
 status: active
 last_updated: 2026-04-07
@@ -52,7 +52,24 @@ loanDepot's internal conventional underwriting guide covering credit policy, inc
 - [[timeshares]] — Installment treatment; maintenance fee exclusion; FHLMC foreclosure carve-out
 - [[total-monthly-debt-obligations]] — Full DTI calculation summary
 
-### Assets (Pages 275–312) — _pending ingestion_
+### Assets (Pages 275–312)
+- [[asset-verification-documentation]] — Eligible asset types; VOD, bank statement, and third-party verification requirements (FNMA/FHLMC)
+- [[business-assets]] — Business funds for self-employed borrowers; cash flow analysis requirement
+- [[credit-card-financing-reward-points]] — Credit card financing for pre-closing fees (max 2%/$1,500); reward points conversion
+- [[cryptocurrency]] — Must convert to USD and deposit in eligible account; crypto-secured debt in DTI
+- [[earnest-money-deposit]] — EMD as eligible source; sourcing and double-count prohibition
+- [[funds-required-to-close]] — DU/LPA cash-to-close components; $500 refinance threshold
+- [[gift-funds]] — Updated with FHLMC donor eligibility, transfer methods, second-home LTV rule
+- [[gift-of-equity]] — Seller equity gift; eligible occupancies; not for reserves; not for investment property
+- [[ineligible-assets]] — Full table of ineligible/restricted asset types
+- [[interested-party-contributions]] — IPC limits by occupancy/LTV; types; payment abatements; undisclosed IPCs
+- [[large-deposits]] — 50% of monthly income threshold; FNMA vs. FHLMC treatment; AUS relief
+- [[minimum-borrower-contribution]] — By occupancy/LTV/program (standard, HomeReady, Home Possible)
+- [[stocks-bonds-mutual-funds]] — Vested publicly traded securities; 20% buffer rule for liquidation evidence
+- [[reserves]] — Reserve definition; ineligible items; DU/LPA determination
+- [[retirement-accounts]] — IRA/401k documentation; severance restriction; liquidation evidence threshold
+- [[sale-of-personal-assets]] — Proceeds from personal asset sales; value and transfer documentation
+- [[trade-equity]] — Property trade-in equity; calculation; appraisal requirement
 ### Credit (Pages 313–325)
 - [[no-credit-score-borrowers]] — Eligibility when no borrower has a credit score
 - [[credit-bureau-report-requirements]] — Tri-merge report requirements; accepted repositories

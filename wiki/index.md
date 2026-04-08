@@ -17,7 +17,7 @@
 [[base-salary-hourly-income]] · [[self-employed-income]] · [[rental-income]] · [[bonus-income]] · [[overtime-income]] · [[commission-income]] · [[retirement-pension-social-security]] · [[asset-depletion-income]] · [[temporary-leave-income]] · [[alimony-child-support-received]] · [[military-income]] · [[foreign-income]]
 
 ### Assets
-[[gift-funds]] · [[large-deposits]] · [[gift-of-equity]] · [[grants-dpa]] · [[retirement-accounts]] · [[business-funds]] · [[sale-of-assets]] · [[earnest-money-deposit]] · [[borrowed-funds]]
+[[asset-verification-documentation]] · [[gift-funds]] · [[gift-of-equity]] · [[large-deposits]] · [[minimum-borrower-contribution]] · [[interested-party-contributions]] · [[ineligible-assets]] · [[retirement-accounts]] · [[stocks-bonds-mutual-funds]] · [[reserves]] · [[business-assets]] · [[earnest-money-deposit]] · [[funds-required-to-close]] · [[trade-equity]] · [[sale-of-personal-assets]] · [[cryptocurrency]] · [[credit-card-financing-reward-points]] · [[grants-dpa]]
 
 ### Credit
 [[credit-score-requirements]] · [[minimum-tradelines]] · [[collections-chargeoffs]] · [[disputed-accounts]] · [[bankruptcy]] · [[foreclosure]] · [[short-sale-deed-in-lieu]] · [[housing-payment-history]] · [[no-credit-score-borrowers]] · [[credit-bureau-report-requirements]] · [[credit-report-inquiries]] · [[credit-score-selection]] · [[derogatory-credit-event-seasoning]] · [[disputed-tradelines]] · [[frozen-credit-bureaus]] · [[mortgage-history]] · [[nontraditional-credit-history]] · [[past-due-collections-chargeoffs]]
@@ -56,18 +56,22 @@
 
 ## Recent Additions
 
-- [[liabilities-overview]] — Liabilities Overview — what counts, what doesn't (Liabilities)
-- [[student-loan-payments]] — Student Loan Payments — IDR, deferred, forgiveness (Liabilities)
-- [[total-monthly-debt-obligations]] — Total Monthly DTI Calculation (Liabilities)
-- [[authorized-user-accounts]] — Authorized User Accounts (Liabilities)
-- [[monthly-housing-expense]] — Monthly Housing Expense-to-Income Ratio (Liabilities)
-- [[secondary-subordinate-financing]] — Secondary / Subordinate Financing (Liabilities)
-- [[contingent-liabilities-debts-paid-by-others]] — Contingent Liabilities — Court-Ordered & Paid by Others (Liabilities)
-- [[no-credit-score-borrowers]] — No Credit Score Borrowers (Credit)
-- [[credit-score-selection]] — Credit Score Selection / Representative Score (Credit)
-- [[derogatory-credit-event-seasoning]] — Derogatory Credit Event Seasoning (Credit)
-- [[gift-funds]] — Gift Funds (Assets)
-- [[source-selling-guide-b3-4.3-04]] — Selling Guide B3-4.3-04 (source)
+- [[asset-verification-documentation]] — Asset Verification & Documentation (Assets)
+- [[large-deposits]] — Large Deposits — 50% threshold, FNMA/FHLMC treatment (Assets)
+- [[interested-party-contributions]] — Interested Party Contributions — IPC limits table (Assets)
+- [[minimum-borrower-contribution]] — Minimum Borrower Contribution by program/LTV (Assets)
+- [[ineligible-assets]] — Ineligible Assets — full restricted asset table (Assets)
+- [[gift-of-equity]] — Gift of Equity (Assets)
+- [[reserves]] — Reserves — definition, ineligible items, AUS determination (Assets)
+- [[retirement-accounts]] — Retirement Accounts (Assets)
+- [[stocks-bonds-mutual-funds]] — Publicly Traded Securities (Assets)
+- [[business-assets]] — Business Assets for self-employed (Assets)
+- [[earnest-money-deposit]] — Earnest Money Deposit (Assets)
+- [[funds-required-to-close]] — Funds Required to Close / Cash to Close (Assets)
+- [[trade-equity]] — Trade Equity (Assets)
+- [[sale-of-personal-assets]] — Sale of Personal Assets (Assets)
+- [[cryptocurrency]] — Cryptocurrency — must convert to USD (Assets)
+- [[credit-card-financing-reward-points]] — Credit Card Financing & Reward Points (Assets)
 
 ---
 
@@ -76,10 +80,10 @@ _Updated during each ingestion_
 
 | Type | Count |
 |------|-------|
-| Topics | 33 |
+| Topics | 49 |
 | Scenarios | 1 |
 | Sources | 2 |
 | Definitions | 1 |
 | Checklists | 1 |
 | Decision Trees | 1 |
-| **Total** | **39** |
+| **Total** | **55** |
