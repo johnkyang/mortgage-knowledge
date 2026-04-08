@@ -4,6 +4,14 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-08 — Ingestion: loanDepot Conventional Guide — Military Income (pp. 195–196)
+
+- **Source**: Guide_Conventional.pdf (trust level: lender)
+- **Pages updated**: [[military-income]] (stub replaced with full content)
+- **Notes**: Eligible types = flight/hazard pay, BAS, BAH, clothing allowance, proficiency pay. FNMA: verify via LES; DU validation ineligible. FHLMC: active-duty needs no employment history; reserve/NG needs 1 year; docs = YTD LES + W-2 (or written VOE + 10-day PCV); AIM ineligible.
+
+---
+
 ## 2026-04-08 — Ingestion: loanDepot Conventional Guide — Alimony/Child Support Income (p. 156)
 
 - **Source**: Guide_Conventional.pdf (trust level: lender)

@@ -29,6 +29,7 @@ loanDepot's internal conventional underwriting guide covering credit policy, inc
 
 ### Income (Pages 155–249)
 - [[alimony-child-support-received]] — 6-month receipt + 3-year continuance required; sporadic payments ineligible; court order + proof of payments required
+- [[military-income]] — Eligible types (BAS, BAH, flight/hazard, proficiency); FNMA: LES required, no DU validation; FHLMC: active-duty no history needed, reserve/NG 1 yr; AIM ineligible
 - [[income-philosophy-and-policy]] — General income philosophy, calculator requirements
 - [[continuity-of-income]] — Three-year continuance framework (FNMA/FHLMC)
 - [[asset-depletion-income]] — Assets used as qualifying income
