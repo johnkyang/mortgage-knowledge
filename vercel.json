@@ -1,5 +1,5 @@
 {
-  "buildCommand": "git clone --depth=1 https://github.com/jackyzha0/quartz.git .quartz && cd .quartz && npm install && npx quartz build --directory ../wiki --output ../public",
+  "buildCommand": "rm -rf .quartz && git clone --depth=1 https://github.com/jackyzha0/quartz.git .quartz && cd .quartz && npm install && npx quartz build --directory ../wiki --output ../public",
   "outputDirectory": "public",
   "installCommand": "echo 'Dependencies handled in buildCommand'",
   "framework": null
