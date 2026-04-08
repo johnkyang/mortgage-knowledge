@@ -24,6 +24,9 @@ loanDepot's internal conventional underwriting guide covering credit policy, inc
 
 ## Topics Covered
 
+### Borrower Eligibility (Pages 119–121)
+- [[borrower-eligibility]] — Natural person requirement; SSN/ITIN rules; SSA validation (SSA-89, SFC 162); ineligibility triggers; ownership interest; life estates; FNMA homebuyer education triggers
+
 ### Income (Pages 155–249)
 - [[income-philosophy-and-policy]] — General income philosophy, calculator requirements
 - [[continuity-of-income]] — Three-year continuance framework (FNMA/FHLMC)

@@ -4,6 +4,14 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Borrower Eligibility (pp. 119–121)
+
+- **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)
+- **Pages updated**: [[borrower-eligibility]] (stub replaced with full content)
+- **Notes**: Covers general eligibility (natural persons, no max age), inter vivos / land trust exceptions, blind trust ineligibility, SSN/ITIN requirements, SSA validation process, SSA-89 form, FNMA SFC 162 requirement, ineligibility triggers for invalid SSNs, ownership interest requirements, life estate provisions, and FNMA homebuyer education triggers.
+
+---
+
 ## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Assets Section (pp. 275–312)
 
 - **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)
