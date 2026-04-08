@@ -4,6 +4,14 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-08 — Ingestion: loanDepot Conventional Guide — Alimony/Child Support Income (p. 156)
+
+- **Source**: Guide_Conventional.pdf (trust level: lender)
+- **Pages updated**: [[alimony-child-support-received]] (stub replaced with full content)
+- **Notes**: 6-month receipt history + 3-year continuance both required; sporadic/partial payments disqualify; child support ages must support 3-year continuance; court order/decree required. Applies to FNMA B3-3.1-09 and FHLMC 5305.2.
+
+---
+
 ## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Borrower Eligibility (pp. 119–121)
 
 - **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)

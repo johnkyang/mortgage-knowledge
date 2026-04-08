@@ -28,6 +28,7 @@ loanDepot's internal conventional underwriting guide covering credit policy, inc
 - [[borrower-eligibility]] — Natural person requirement; SSN/ITIN rules; SSA validation (SSA-89, SFC 162); ineligibility triggers; ownership interest; life estates; FNMA homebuyer education triggers
 
 ### Income (Pages 155–249)
+- [[alimony-child-support-received]] — 6-month receipt + 3-year continuance required; sporadic payments ineligible; court order + proof of payments required
 - [[income-philosophy-and-policy]] — General income philosophy, calculator requirements
 - [[continuity-of-income]] — Three-year continuance framework (FNMA/FHLMC)
 - [[asset-depletion-income]] — Assets used as qualifying income
