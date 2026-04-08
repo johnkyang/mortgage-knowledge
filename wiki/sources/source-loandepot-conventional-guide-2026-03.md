@@ -2,7 +2,7 @@
 title: "Source: loanDepot Conventional Lending Guide (March 2026)"
 type: source
 tags: [lender, conventional, income, assets, liabilities, credit, property]
-related: [self-employed-income, rental-income, bonus-overtime-commission-income, temporary-leave-income, social-security-retirement-income, asset-depletion-income, continuity-of-income, gift-funds, no-credit-score-borrowers, credit-bureau-report-requirements, credit-report-inquiries, credit-score-selection, derogatory-credit-event-seasoning, disputed-tradelines, frozen-credit-bureaus, mortgage-history, nontraditional-credit-history, past-due-collections-chargeoffs]
+related: [self-employed-income, rental-income, bonus-overtime-commission-income, temporary-leave-income, social-security-retirement-income, asset-depletion-income, continuity-of-income, gift-funds, no-credit-score-borrowers, credit-bureau-report-requirements, credit-report-inquiries, credit-score-selection, derogatory-credit-event-seasoning, disputed-tradelines, frozen-credit-bureaus, mortgage-history, nontraditional-credit-history, past-due-collections-chargeoffs, liabilities-overview, alimony-child-support-paid, authorized-user-accounts, business-debt-in-borrower-name, contingent-liabilities-debts-paid-by-others, departure-residence-pending-sale, property-tax-qualification, irs-installment-agreements, loans-secured-by-financial-asset, monthly-housing-expense, open-30-day-accounts, revolving-accounts, secondary-subordinate-financing, student-loan-payments, timeshares, total-monthly-debt-obligations]
 trust_level: lender
 status: active
 last_updated: 2026-04-07
@@ -34,8 +34,25 @@ loanDepot's internal conventional underwriting guide covering credit policy, inc
 - [[temporary-leave-income]] — Maternity/parental/medical leave qualification
 - [[social-security-retirement-income]] — SS documentation, gross-up rules
 
+### Liabilities (Pages 250–274)
+- [[liabilities-overview]] — What counts as a liability; what doesn't; undisclosed debt
+- [[alimony-child-support-paid]] — FNMA vs. FHLMC treatment; 10-month rule
+- [[authorized-user-accounts]] — DU review; FHLMC LPA feedback requirements
+- [[business-debt-in-borrower-name]] — Exclusion conditions; cash flow analysis requirement
+- [[contingent-liabilities-debts-paid-by-others]] — Court-ordered debt; non-mortgage and mortgage debts paid by others
+- [[departure-residence-pending-sale]] — Sales contract exclusion; employee relocation buyout
+- [[property-tax-qualification]] — Discounted taxes, exemptions, abatements; 5-year continuance
+- [[irs-installment-agreements]] — IRS payment plans in DTI; pending agreement calculation
+- [[loans-secured-by-financial-asset]] — 401(k) loans; crypto exception
+- [[monthly-housing-expense]] — PITIA components; HELOC calculation; rent documentation
+- [[open-30-day-accounts]] — DTI exclusion; fund verification requirement
+- [[revolving-accounts]] — $1 payment threshold; DU ($10 or 5%) vs. LPA (5%) floor
+- [[secondary-subordinate-financing]] — FNMA/FHLMC requirements; EAH benefit
+- [[student-loan-payments]] — IDR/$0 treatment; FNMA 1% vs. FHLMC 0.5% deferred
+- [[timeshares]] — Installment treatment; maintenance fee exclusion; FHLMC foreclosure carve-out
+- [[total-monthly-debt-obligations]] — Full DTI calculation summary
+
 ### Assets (Pages 275–312) — _pending ingestion_
-### Liabilities (Pages 250–274) — _pending ingestion_
 ### Credit (Pages 313–325)
 - [[no-credit-score-borrowers]] — Eligibility when no borrower has a credit score
 - [[credit-bureau-report-requirements]] — Tri-merge report requirements; accepted repositories

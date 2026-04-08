@@ -4,6 +4,16 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Liabilities Section (pp. 250–274)
+
+- **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)
+- **Pages created**: [[liabilities-overview]], [[alimony-child-support-paid]], [[authorized-user-accounts]], [[business-debt-in-borrower-name]], [[contingent-liabilities-debts-paid-by-others]], [[departure-residence-pending-sale]], [[property-tax-qualification]], [[irs-installment-agreements]], [[loans-secured-by-financial-asset]], [[monthly-housing-expense]], [[open-30-day-accounts]], [[revolving-accounts]], [[secondary-subordinate-financing]], [[student-loan-payments]], [[timeshares]], [[total-monthly-debt-obligations]]
+- **Pages updated**: [[source-loandepot-conventional-guide-2026-03]], [[hot]], [[index]], [[taxonomy]], [[change-log]]
+- **Open questions added**: 0 (existing 2 remain open)
+- **Notes**: Liabilities section (25 pages, pp. 250–274) fully processed. 15 topic pages created. Notable rules: FHLMC requires alimony to reduce qualifying income (FNMA permits but does not require); FHLMC uses 0.5% of outstanding balance for $0 student loans vs. FNMA allows true $0 on IDR plans; FHLMC HELOC default payment is 1.5% of outstanding balance when not documented; timeshare foreclosures exempt from standard derogatory seasoning (FHLMC); crypto-secured installment loans must always be in DTI. Assets section (pp. 275–312) remains to be ingested.
+
+---
+
 ## 2026-04-07 — Ingestion: loanDepot Conventional Guide — Credit Section (pp. 313–325)
 
 - **Source**: Guide_Conventional.pdf (trust level: lender — loanDepot Conventional Lending Guide, March 2026)

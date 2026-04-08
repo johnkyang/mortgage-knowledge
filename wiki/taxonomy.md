@@ -82,14 +82,22 @@ Pages not yet created appear as plain text. Created pages appear as wikilinks.
 - [[mortgage-history|Mortgage History & Payment History]]
 
 ## Liabilities
-- Revolving Debt
-- Installment Debt (10-month rule)
-- Student Loans (IBR, deferred)
-- Alimony / Child Support (paid)
-- Business Debt in Borrower Name
-- Contingent Liabilities
-- HELOC
-- DTI Limits / Thresholds
+- [[liabilities-overview|Liabilities Overview (What Counts / What Doesn't)]]
+- [[total-monthly-debt-obligations|Total Monthly Debt Obligations (DTI Calculation)]]
+- [[monthly-housing-expense|Monthly Housing Expense-to-Income Ratio]]
+- [[revolving-accounts|Revolving Accounts]]
+- [[open-30-day-accounts|Open 30-Day Charge Accounts]]
+- [[student-loan-payments|Student Loan Payments (IBR, Deferred, Forbearance)]]
+- [[alimony-child-support-paid|Alimony / Child Support (Paid)]]
+- [[business-debt-in-borrower-name|Business Debt in Borrower's Name]]
+- [[authorized-user-accounts|Authorized User Accounts]]
+- [[contingent-liabilities-debts-paid-by-others|Contingent Liabilities — Court-Ordered & Debts Paid by Others]]
+- [[loans-secured-by-financial-asset|Loans Secured by a Financial Asset]]
+- [[secondary-subordinate-financing|Secondary / Subordinate Financing]]
+- [[departure-residence-pending-sale|Departure Residence Pending Sale]]
+- [[property-tax-qualification|Property Tax Qualification (Discounts, Exemptions, Abatements)]]
+- [[irs-installment-agreements|IRS Installment Agreements]]
+- [[timeshares|Timeshare Debt]]
 
 ## Property
 - Property Types (SFR, Condo, PUD, Co-op, MH)
