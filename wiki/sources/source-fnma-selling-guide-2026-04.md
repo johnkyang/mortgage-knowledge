@@ -75,6 +75,16 @@ The authoritative source for Fannie Mae conventional loan underwriting guideline
 
 ## Topics Ingested
 
+### Income (B3-3.3 through B3-3.8) — Completed 2026-04-08
+- [[base-salary-hourly-income]] — B3-3.3-01
+- [[bonus-overtime-commission-income]] — B3-3.3-02
+- [[temporary-leave-income]] — B3-3.3-09
+- [[alimony-child-support-received]] — B3-3.4-02
+- [[social-security-retirement-income]] — B3-3.4-15, B3-3.4-18, B3-3.4-03
+- [[trust-income]] — B3-3.4-16
+- [[self-employed-income]] — B3-3.5-01, B3-3.5-02, B3-3.7-01/02/03
+- [[rental-income]] — B3-3.8-01
+
 ### Credit (B3-5 through B3-6) — Completed 2026-04-08
 - [[credit-score-requirements]] — B3-5.1-01, B3-5.1-02
 - [[credit-score-selection]] — B3-5.1-02
@@ -104,4 +114,5 @@ The authoritative source for Fannie Mae conventional loan underwriting guideline
 - All topic pages ingested from this source use `trust_level: official` and `confidence: verified`
 - Where loanDepot guide rules differ, flag in `## Exceptions & Nuances` as lender overlay
 - Credit section (B3-5 through B3-6) fully ingested as of 2026-04-08
-- Income, Assets, Property, and DU sections remain for future ingestion batches
+- Income section (B3-3.3 through B3-3.8): 8 core topic pages upgraded as of 2026-04-08; sections B3-3.1/B3-3.2/B3-3.4-03 through B3-3.4-14 (boarder, capital gains, foster care, MCC, notes receivable, public assistance, royalties, Section 8) and B3-3.6 (individual tax return analysis) not yet separately ingested as topic pages
+- Assets, Property, and DU sections remain for future ingestion batches

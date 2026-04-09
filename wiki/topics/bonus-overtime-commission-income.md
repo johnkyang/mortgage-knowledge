@@ -2,40 +2,33 @@
 title: Bonus, Overtime, and Commission Income
 type: topic
 tags: [income, bonus, overtime, commission, variable-income, employment]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [continuity-of-income, income-philosophy-and-policy, verbal-voe-requirements, income-trending]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [continuity-of-income, base-salary-hourly-income, verbal-voe-requirements, income-trending]
 confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Summary
 
-Bonus, overtime, and commission income require a minimum 12-month history and a recommended two-year history. Income must be likely to continue for at least three years. All three types are on the indefinite-continuance list — 3-year continuance documentation is not required. Calculation uses income trending analysis when earnings fluctuate year-over-year.
+Bonus, overtime, commission, and tip income require a minimum 12-month history and a recommended two-year history. Continuance verification is not required unless the lender has reason to doubt. Calculation uses trending analysis — stable/increasing income is averaged; declining income must first stabilize. All three types are on the indefinite-continuance list.
 
-## Key Rules
+## Key Rules — FNMA (B3-3.3-02)
 
-### Bonus and Overtime Income
-- **Recommended**: Two-year history of receipt. Shorter history may be acceptable in certain instances. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- **Minimum**: History of no less than **12 months** in all cases. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Income must be **likely to continue for at least three years**. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- No 3-year continuance documentation is required — income is on the indefinite-continuance list. (Source: [[source-loandepot-conventional-guide-2026-03]])
-
-### Commission Income
-- Commission received for the **last two years** can be considered acceptable income. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Commission income received for **12–24 months** may be considered with **positive factors** to offset the shorter history (FNMA). (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Income must be likely to continue for the **next three years**. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- **Tax returns are no longer required** to identify unreimbursed business expenses for commission income. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- No 3-year continuance documentation required. (Source: [[source-loandepot-conventional-guide-2026-03]])
+- **Recommended**: Two-year history of receipt. (Source: [[source-fnma-selling-guide-2026-04]])
+- **Minimum**: No less than **12 months** may be used with documented positive factors to offset the shorter history. (Source: [[source-fnma-selling-guide-2026-04]])
+- **Continuance**: Lender is **not required** to verify continuance unless there is reason to believe income may not continue. (Source: [[source-fnma-selling-guide-2026-04]])
+- **Tax returns**: Not required for commission income to identify unreimbursed business expenses (confirmed per SEL-2026-02). (Source: [[source-fnma-selling-guide-2026-04]])
+- **Tip income exception**: When not reported by employer, may substitute 2 years' personal tax returns with IRS Form 4137 in lieu of W-2. (Source: [[source-fnma-selling-guide-2026-04]])
 
 ## Documentation Requirements
 
-### FNMA — Bonus, Overtime, and Commission
+### FNMA — Bonus, Overtime, Commission, and Tip (B3-3.3-02)
 Obtain one of the following:
-- Written VOE, OR
-- Recent paystubs + most recent two years' W-2s
-- Plus: Verbal Verification of Employment (VVOE)
-(Source: [[source-loandepot-conventional-guide-2026-03]])
+- Completed Request for Verification of Employment (Form 1005), **or**
+- Most recent paystub + **two years' W-2s**
+- Plus: **Verbal VOE** is required (see [[verbal-voe-requirements]])
+(Source: [[source-fnma-selling-guide-2026-04]])
 
 ### FHLMC — Bonus and Overtime
 **Streamlined Accept and Standard Documentation** — all of the following:
@@ -51,23 +44,22 @@ OR
 - Written VOE (two years of earnings) + 10-day PCV
 (Source: [[source-loandepot-conventional-guide-2026-03]])
 
-## Calculation Approach
+## Calculation Approach — FNMA (B3-3.3-02)
 
-Income calculation must represent the **overall stability** of the income source. Analysis must include:
-- Year-to-date and calendar year earnings comparison
-- Income trending analysis (see [[income-trending]])
-- Declining YTD trends must be investigated and documented on the Decision Logic form
+1. Determine the income frequency (weekly, biweekly, monthly, quarterly, annually) to calculate a monthly amount.
+2. Compare monthly YTD income to prior years' earnings.
+3. Apply trending logic:
+   - **Stable or Increasing**: Average of YTD and prior year earnings. Calculation must include a minimum of 12 months.
+   - **Declining**: Confirm income has stabilized; if not, income is ineligible. Use YTD income ÷ months elapsed since income stabilized.
+4. **Bonus income annualization**: If a bonus is paid annually (e.g., March 31 each year), divide by 12 to determine the monthly amount, then include in the trending analysis.
+5. **Non-recurring event exclusion**: When a documented event outside the borrower's control temporarily prevented income, the lender may exclude that period from the calculation.
+(Source: [[source-fnma-selling-guide-2026-04]])
 
-**Income trending flags:**
+### loanDepot Income Trending Thresholds (Lender Overlay)
+(Source: [[source-loandepot-conventional-guide-2026-03]])
 - ≤ 10% fluctuation: Consistent — no additional documentation generally required
-- > 10% and < 30%: Moderately Consistent — additional analysis required if increase is not supported by documentation
-- > 30%: Potentially Inconsistent — additional documentation REQUIRED; qualifying income must be based on documented analysis and rationale
-(Source: [[source-loandepot-conventional-guide-2026-03]])
-
-**Declining income:**
-- Must use YTD income unless borrower can document a one-time event (e.g., injury) and evidence the income has returned to prior levels
-- If decline > 10% year-over-year: further analysis required; document reason for decline and evidence that current income has stabilized
-(Source: [[source-loandepot-conventional-guide-2026-03]])
+- > 10% and < 30%: Moderately Consistent — additional analysis required if increase is unsupported
+- > 30%: Potentially Inconsistent — additional documentation REQUIRED; qualifying income must reflect documented analysis and rationale
 
 ## Exceptions & Nuances
 
@@ -90,4 +82,5 @@ Income calculation must represent the **overall stability** of the income source
 
 ## Sources
 
+- [[source-fnma-selling-guide-2026-04]] — Fannie Mae Selling Guide, April 1, 2026, B3-3.3-02, pp. 318–319 (updated per SEL-2026-02, March 4, 2026)
 - [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Lending Guide, March 2026, pp. 165–167

@@ -2,33 +2,42 @@
 title: Temporary Leave Income
 type: topic
 tags: [income, temporary-leave, maternity-leave, disability, employment]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [continuity-of-income, income-philosophy-and-policy, verbal-voe-requirements, social-security-retirement-income]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [continuity-of-income, verbal-voe-requirements, social-security-retirement-income]
 confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Summary
 
-Borrowers on temporary leave (maternity/parental leave, short-term medical disability, or other employer-permitted leave) may still qualify. The underwriter must determine whether the borrower will return to work before or after the first mortgage payment date, as this drives how qualifying income is calculated. Furloughed or laid-off borrowers do NOT qualify under temporary leave guidelines.
+Borrowers on temporary leave (maternity/parental leave, short-term medical disability, or other employer-permitted leave) may still qualify. The key question is whether the borrower will return to work before or after the first mortgage payment date, as this drives how qualifying income is calculated. Furloughed or laid-off borrowers do NOT qualify under temporary leave guidelines. The lender must not ask borrowers who are NOT currently on leave whether they intend to take leave in the future.
 
-## Key Rules
+## Key Rules — FNMA (B3-3.3-09)
 
-- Temporary leave is defined as short-duration absences for maternity/parental leave, short-term medical disability, or other leave types acceptable by law or the borrower's employer. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- **Workers placed on furlough, laid off, or unemployed due to an employer-initiated action** cannot be qualified under temporary leave guidelines — their income cannot be used. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- The borrower's **employment and income history must meet standard eligibility requirements** — temporary leave does not bypass income stability requirements. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- The borrower must provide **written confirmation of intent to return to work**. (Source: [[source-loandepot-conventional-guide-2026-03]])
+- Temporary leave includes maternity/parental leave, short-term medical disability, and other leave acceptable by law or employer. (Source: [[source-fnma-selling-guide-2026-04]])
+- **Mandatory leave initiated by an employer** (furlough or layoff) is **not** temporary leave regardless of an expected return date — see [[student-loan-payments]] for unemployment income from such situations. (Source: [[source-fnma-selling-guide-2026-04]])
+- Employment and income history must meet standard eligibility requirements per Section B3-3.3. (Source: [[source-fnma-selling-guide-2026-04]])
+- Continuance is established by income type per B3-3.3 — the lender must not receive evidence the borrower does not have the right to return. (Source: [[source-fnma-selling-guide-2026-04]])
+- **If the lender is NOT aware the borrower is on temporary leave, the lender must not ask** whether the borrower intends to take leave in the future. (Source: [[source-fnma-selling-guide-2026-04]])
 
 ## Qualifying Income — FNMA
 
 | Return-to-Work Timing | Qualifying Income |
 |----------------------|-------------------|
-| Borrower returns **on or before** first mortgage payment date | Use **regular employment income** (pre-leave rate) |
-| Borrower returns **after** first mortgage payment date | Use the **lesser** of temporary leave income or regular employment income |
+| Returns **on or before** first payment date | Use **regular employment income** (pre-leave rate) |
+| Returns **after** first payment date | Use the **lesser** of temporary leave income or regular employment income |
 
-**If temporary leave income is less than regular employment income:**
-The UW may supplement the temporary leave income with available **liquid financial reserves** per guidelines. (Source: [[source-loandepot-conventional-guide-2026-03]])
+**Supplemental income when leave income < regular income:**
+The lender may supplement temporary leave income with available liquid financial reserves. Formula:
+
+> **Supplemental income** = Available liquid reserves ÷ Number of months of supplemental income
+
+- **Available liquid reserves** = Total verified liquid assets minus funds needed for the transaction (down payment, closing costs, required debt payoff, escrows, minimum required reserves)
+- **Number of months** = Months from first payment date to date borrower begins receiving regular employment income, rounded up to next whole number
+- **Total qualifying income** = Supplemental income + temporary leave income (cannot exceed regular employment income)
+
+Example: Regular income $6,000/mo; temporary leave income $2,000/mo; verified liquid assets $30,000; funds for transaction $18,000; available reserves = $12,000; return date 4 months after first payment → $12,000 ÷ 4 = $3,000 supplemental; total qualifying income = $5,000. (Source: [[source-fnma-selling-guide-2026-04]])
 
 ## Qualifying Income — FHLMC
 
@@ -46,14 +55,16 @@ The UW may supplement the temporary leave income with available **liquid financi
 
 ## Documentation Requirements
 
-### FNMA
-- Employment documentation per standard guidelines
-- Written confirmation from borrower of intent to return + agreed-upon return date (from borrower or obtained directly from employer/designee)
-- Acceptable employer documentation: prior correspondence specifying duration of leave or expected return date, or a computer printout from the employer's or designee's system of record
-- **Note**: This documentation does NOT have to comply with the Age of Documentation policy
-- VVOE confirming borrower is on temporary leave (borrower is considered employed)
-- Documentation of pre-leave income amount and the temporary leave income amount and duration
-(Source: [[source-loandepot-conventional-guide-2026-03]])
+### FNMA (B3-3.3-09)
+- Employment documentation per standard income type guidelines (B3-3.3), including:
+  - Amount and duration of temporary leave income
+  - Amount of regular employment income prior to leave
+- **Written confirmation from borrower** of intent to return to work
+- **Employer documentation** confirming expected return-to-work date (may come from borrower, employer, or employer's designee), acceptable forms include:
+  - Prior correspondence from employer/designee specifying duration or return date
+  - Computer printout from employer/designee's system of record
+  - **This documentation does NOT need to comply with the Age of Credit Documents policy**
+- **VVOE** confirming borrower is on temporary leave — borrower is considered employed (Source: [[source-fnma-selling-guide-2026-04]])
 
 ### FHLMC — All Borrowers on Temporary Leave
 - Documentation to verify borrower's pre-leave income and employment
@@ -90,4 +101,5 @@ The UW may supplement the temporary leave income with available **liquid financi
 
 ## Sources
 
+- [[source-fnma-selling-guide-2026-04]] — Fannie Mae Selling Guide, April 1, 2026, B3-3.3-09, pp. 329–332 (updated per SEL-2026-02, March 4, 2026)
 - [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Lending Guide, March 2026, pp. 212–215

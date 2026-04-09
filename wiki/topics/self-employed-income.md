@@ -2,38 +2,44 @@
 title: Self-Employment Income
 type: topic
 tags: [income, self-employment, schedule-c, partnership, s-corp, corporation]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [continuity-of-income, rental-income, tax-return-requirements, verbal-voe-requirements, income-philosophy-and-policy]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [continuity-of-income, rental-income, tax-return-requirements, verbal-voe-requirements]
 confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Summary
 
-A borrower with 25% or more ownership interest in a business is self-employed. Two years of self-employment is required in most cases. Income is calculated differently depending on business structure: Schedule C (sole proprietor), Form 1065 (partnership), Form 1120S (S-corp), or Form 1120 (C-corp). The business must be verified through a third-party source within 120 days of the Note date.
+A borrower with 25% or more ownership interest in a business is self-employed. Two years of self-employment is required in most cases. Income is calculated differently depending on business structure: Schedule C (sole proprietor), Form 1065 (partnership), Form 1120S (S-corp), or Form 1120 (C-corp). A written cash flow analysis is required. FNMA's Income Calculator (Form 1084) or equivalent is the official tool.
 
-## Key Rules
+## Key Rules — FNMA (B3-3.5-01)
 
-- A borrower with **25% or more** ownership in any business — sole proprietorship, partnership, or corporation — is considered self-employed. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- A **two-year history** of self-employment is required in most instances to confirm income stability. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Business existence must be verified through a **third-party source within 120 calendar days** prior to the Note date (FNMA and FHLMC). (Source: [[source-loandepot-conventional-guide-2026-03]])
-- If the borrower has been self-employed **less than two years**, income may still be considered if the borrower has a two-year history of earning income at the same or greater level in the same or similar occupation. Use the **lesser** of the new business income or prior occupation income. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- If the business structure changes (e.g., sole prop to S-corp), the prior and current businesses must be treated as **different businesses** unless there is no change in ownership percentage and no change in products, services, or location. (Source: [[source-loandepot-conventional-guide-2026-03]])
+- A borrower with **25% or greater ownership** in any business is self-employed. (Source: [[source-fnma-selling-guide-2026-04]])
+- FNMA generally requires a **two-year history** of prior earnings to demonstrate likelihood income will continue. (Source: [[source-fnma-selling-guide-2026-04]])
+- **Less-than-two-year exception**: Income may be considered if (1) the most recent personal AND business tax returns reflect **a full 12 months** of SE income from the current business, AND (2) there is documented history of prior income at the same or greater level in the same/similar field or occupation with similar responsibilities. Lender must give careful consideration to the nature of the borrower's experience and the amount of debt the business has acquired. (Source: [[source-fnma-selling-guide-2026-04]])
+- Business existence must be verified through a **third-party source within 120 calendar days** prior to the Note date. (Source: [[source-loandepot-conventional-guide-2026-03]])
 
-### FNMA — One Year of Returns (DU exception)
-DU may permit one year of personal and business returns when ALL of the following are met:
-- Business has been in existence for at least **five years** as reflected on the loan application
-- Borrower has had **25%+ ownership for the last five consecutive years**
-- Individual and business returns reflect at least **12 months** of SE income from current business
-- Self-Employment Income Worksheet is fully completed
-(Source: [[source-loandepot-conventional-guide-2026-03]])
+### FNMA — One Year of Returns (DU/5-Year Exception)
+Lender may provide **one year of personal and business tax returns** if ALL of the following are met:
+- Business has been in existence for **at least 5 years** as reflected on Form 1003
+- Borrower has had **25%+ ownership for the past 5 consecutive years**
+- For partnerships/S-corps/corporations: business return must support information on Form 1003
+- For sole proprietorships: individual return and other documentation must support Form 1003 information
+- Multiple businesses are assessed separately; years of returns required may differ per business
+- Lender must complete Form 1084 (Cash Flow Analysis) or equivalent
+(Source: [[source-fnma-selling-guide-2026-04]])
 
 ### FNMA — Business Returns May Be Waived
-When two years of signed individual returns are provided, business returns may be waived if:
-- Borrower is using **personal funds** for down payment, closing costs, and reserves
+When two years of signed individual returns are provided, business returns may be waived if ALL of the following are met:
+- Borrower is using **personal funds** for down payment, closing costs, and required reserves
 - Borrower has been SE in the **same business for at least 5 years**
-- Individual returns show **increasing** SE income over the past two years
+- Individual tax returns show an **increase** in SE income over the past two years from the respective business
+(Source: [[source-fnma-selling-guide-2026-04]])
+
+### loanDepot Additional Requirements (Overlay)
+- Business existence verified within 120 days of Note date (consistent with FNMA)
+- Business structure changes (e.g., sole prop to S-corp) treated as different businesses unless no change in ownership percentage, products, services, or location
 (Source: [[source-loandepot-conventional-guide-2026-03]])
 
 ## Documentation Requirements by Entity Type
@@ -67,13 +73,35 @@ When two years of signed individual returns are provided, business returns may b
 - Required: Personal returns + Form 1120 + Form 1125-E + W-2s (1 or 2 years based on business age per FHLMC; 2 years per FNMA standard)
 (Source: [[source-loandepot-conventional-guide-2026-03]])
 
+## Written Income Analysis Requirements — FNMA (B3-3.5-01)
+
+**Personal income analysis**: The lender must prepare a written evaluation of the SE borrower's personal income (including business income/loss on individual returns) to determine stable and continuous income. Not required if SE is a secondary income source and borrower qualifies using only non-SE income (e.g., salary, retirement).
+
+**Tool**: Use Form 1084 (Cash Flow Analysis), Fannie Mae Income Calculator, or another approved tool applying the same principles. The Findings Report from Income Calculator must be retained. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**Business income analysis**: Required when business tax returns are obtained and the business return waiver conditions are not met. Purpose: assess recurring nature of income, year-to-year trends for gross income/expenses/taxable income, and trend in the percentage of gross income attributed to expenses over time. Use Form 1088 (Comparative Income Analysis), Income Calculator, or equivalent. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**Business assets**: If SE borrower is also using business assets for down payment/closing/reserves, a business cash flow analysis is required to confirm the withdrawal will not negatively impact the business. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**SE Co-Borrower not qualifying**: If co-borrower SE income is not used for qualifying, no documentation is required — but any business debt on which the borrower is personally obligated must be included in DTI. (Source: [[source-fnma-selling-guide-2026-04]])
+
+## Business Liquidity — FNMA (Partnerships and S-Corps)
+
+To confirm adequate business liquidity to support withdrawal of earnings, lender may use a generally accepted formula:
+- **Quick Ratio** (Acid Test): `(current assets − inventory) ÷ current liabilities` — appropriate for inventory-dependent businesses
+- **Current Ratio** (Working Capital): `current assets ÷ current liabilities` — appropriate for non-inventory businesses
+- A ratio of **1.0 or greater** is generally sufficient; lenders may use alternative methods with documented rationale.
+
+**Adjustments to business cash flow (add back)**: depreciation, depletion, amortization, casualty losses, other non-recurring losses.
+
+**Adjustments to business cash flow (subtract)**: travel and meals exclusion, non-recurring income, obligations on mortgages/notes/bonds payable in less than one year (unless lines of credit that roll regularly or business has sufficient liquid assets). (Source: [[source-fnma-selling-guide-2026-04]])
+
 ## Partnership Income — Access to Funds
 
 Income from partnerships can only be considered if the UW documents:
 - The income was **actually distributed** to the borrower, OR
 - The business has **adequate liquidity** to support the withdrawal of earnings
 - If a two-year history of "guaranteed payments to the partner" exists, those can be added to cash flow directly
-- If the Schedule K-1 reflects a documented, stable history of cash distributions consistent with the income level used to qualify → no additional liquidity documentation required
 - **FHLMC**: Cash distributions on Schedule K-1 may NOT be used as qualifying income (only to establish liquidity/access to business funds)
 (Source: [[source-loandepot-conventional-guide-2026-03]])
 
@@ -136,4 +164,5 @@ _(none yet — add as scenarios are created)_
 
 ## Sources
 
+- [[source-fnma-selling-guide-2026-04]] — Fannie Mae Selling Guide, April 1, 2026, B3-3.5-01 (pp. 362–365), B3-3.5-02 (pp. 366–368), B3-3.7-01/02/03 (pp. 385–387)
 - [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Lending Guide, March 2026, pp. 242–249

@@ -2,11 +2,11 @@
 title: Trust Income
 type: topic
 tags: [income, trust, continuity, qualifying-income]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [continuity-of-income, asset-depletion-income, income-philosophy-and-policy, inter-vivos-trust]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [continuity-of-income, asset-depletion-income, inter-vivos-trust]
 confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Summary
@@ -26,32 +26,38 @@ Trust income may be used as qualifying income when the amount, frequency, and ty
 - Trusts created in the prior 12 months using eligible employment-related assets may still qualify, but must meet the income calculation requirements under [[asset-depletion-income]]. (Source: [[source-loandepot-conventional-guide-2026-03]])
 - **A borrower who is also the trustee may not supply the trustee's statement** — an independent source is required. (Source: [[source-loandepot-conventional-guide-2026-03]])
 
-## FNMA — Documentation and Calculation
+## FNMA — Documentation and Calculation (B3-3.4-16)
 
-Obtain a copy of one of the following to verify the trust:
-- The trust agreement
-- The trustee's statement (not acceptable if borrower is the trustee)
-- The trust's federal tax returns
-- A letter from an accountant or attorney who reviewed the trust documents (when above are unavailable or when the borrower is the trustee)
+**Trust verification** — obtain one or more of the following to confirm amount, frequency, type, and date trust was created:
+- Copy of the trust agreement
+- Trustee's statement (**not acceptable if borrower is the trustee**)
+- Trust's federal income tax returns
+- Letter from an accountant or attorney who reviewed trust documents (when above are unavailable or when borrower is the trustee)
 
-Confirm: amount, frequency, type of income, and date the trust was established.
+**Current receipt**: Document receipt for at least **one month** using bank statements, cancelled checks, or electronic payment evidence. (Source: [[source-fnma-selling-guide-2026-04]])
 
-Funds from the trust used for down payment, closing costs, or reserves must be **subtracted** from total trust funds before determining if the income meets continuance requirements. (Source: [[source-loandepot-conventional-guide-2026-03]])
+Funds from the trust used for down payment, closing costs, or reserves must be **subtracted** from total trust funds before determining if the income meets continuance requirements. (Source: [[source-fnma-selling-guide-2026-04]])
 
 ### Fixed Trust Payments (FNMA)
-- Use the fixed payment amount from the trust agreement as qualifying income
-- Document current receipt with **one month's bank statement** or equivalent
-- **3-year continuance is required**
-- Payments must have been received for **12 months or longer** to be considered stable
-- Exception: trust < 12 months old is acceptable if fixed payments, borrower is not the grantor, and at least one payment received prior to closing
+- Use the fixed payment amount from the trust verification documentation as qualifying income (convert to monthly as applicable).
+- **History**: Trust must have been established for **12 months or longer**, unless all of the following are met:
+  - Trust documentation reflects fixed payments
+  - Borrower is **not** the grantor
+  - At least **one payment received prior to closing**
+(Source: [[source-fnma-selling-guide-2026-04]])
 
 ### Variable Trust Payments (FNMA)
-- Calculate qualifying income using **variable income and income trending** guidance
-- **3-year continuance is required**
-- Minimum **24-month history** of trust income required
-- Document with borrower's most recent **2 years of federal income tax returns**
-- Document current receipt with **1 month's most recent bank statement** or equivalent
-(Source: [[source-loandepot-conventional-guide-2026-03]])
+- Minimum **24-month history** required.
+- Document with **2 years of borrower's OR trust's signed federal income tax returns**.
+- Calculate qualifying income as an **average of income received for the most recent two years**.
+- Exception: Income received for 12–24 months may be acceptable when other positive factors are present.
+(Source: [[source-fnma-selling-guide-2026-04]])
+
+### Continuance (FNMA)
+- Continuance is based on the **type of income received through the trust**, not the trust itself.
+  - If trust distributes **rental income**: no 3-year continuance required.
+  - If trust distributes **fixed payment from a depleting asset**: 3-year continuance required.
+(Source: [[source-fnma-selling-guide-2026-04]])
 
 ## FHLMC — Documentation and Calculation
 
@@ -97,4 +103,5 @@ Funds from the trust used for down payment, closing costs, or reserves must be *
 
 ## Sources
 
+- [[source-fnma-selling-guide-2026-04]] — Fannie Mae Selling Guide, April 1, 2026, B3-3.4-16, pp. 356–357 (updated per SEL-2026-02, March 4, 2026)
 - [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Lending Guide, March 2026, pp. 217–219

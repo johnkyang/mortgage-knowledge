@@ -7,27 +7,27 @@ _Max ~100 lines. Updated at the end of every ingestion and query session. Older 
 ## Recently Ingested
 _Last 5 sources_
 
-1. [[source-fnma-selling-guide-2026-04]] — FNMA Selling Guide (April 1, 2026), official, pp. 469–527 (Credit section: B3-5 through B3-6). 2026-04-08.
-2. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 275–312 (Assets section). 2026-04-07.
-3. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 250–274 (Liabilities section). 2026-04-07.
-4. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 313–325 (Credit section). 2026-04-07.
-5. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 155–249 (Income section). 2026-04-07.
+1. [[source-fnma-selling-guide-2026-04]] — FNMA Selling Guide (April 1, 2026), official, pp. 318–417 (Income section: B3-3.3 through B3-3.8). 2026-04-08.
+2. [[source-fnma-selling-guide-2026-04]] — FNMA Selling Guide (April 1, 2026), official, pp. 469–527 (Credit section: B3-5 through B3-6). 2026-04-08.
+3. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 275–312 (Assets section). 2026-04-07.
+4. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 250–274 (Liabilities section). 2026-04-07.
+5. [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Guide (March 2026), lender-level, pp. 313–325 (Credit section). 2026-04-07.
 
 ---
 
 ## Active Topics
 _Max 10 pages currently being built or refined_
 
+- [[base-salary-hourly-income]] — FNMA official B3-3.3-01: fixed vs variable; pay frequency calculation table; 12-month min for variable; two averaging methods
+- [[bonus-overtime-commission-income]] — FNMA official B3-3.3-02: 12-month min/2-year recommended; trending rules; bonus annualization; no continuance verification
+- [[temporary-leave-income]] — FNMA official B3-3.3-09: lesser-of rule; supplemental income formula; must not ask about future leave
+- [[alimony-child-support-received]] — FNMA official B3-3.4-02: 6-month history, 3-year continuance, child support nontaxable/grossable
+- [[self-employed-income]] — FNMA official B3-3.5-01: Form 1084/Income Calculator required; 1-year exception; business liquidity ratios
+- [[rental-income]] — FNMA official B3-3.8-01: housing payment + management experience table; 75% rule; partnership/S-corp = SE income
+- [[social-security-retirement-income]] — FNMA official B3-3.4-15: 15% nontaxable no docs needed; retirement/LTD own record = no continuance
+- [[trust-income]] — FNMA official B3-3.4-16: fixed/variable distinction; continuance by income type; trustee = borrower rule
 - [[credit-score-requirements]] — FNMA official: FICO versions, 620/640 minimums manual UW, no minimum DU; LLPAs, delivery requirements
 - [[dti-limits]] — FNMA official: 36%/45% manual, 50% DU; re-underwriting criteria; what's included/excluded
-- [[derogatory-credit-event-seasoning]] — Full waiting period table; DU override codes; re-establishing credit rules (FNMA official)
-- [[bankruptcy]] — Ch.7/11: 4yr/2yr EC; Ch.13 discharge: 2yr; dismissal: 4yr/2yr EC; multiple BK: 5yr/3yr; DU handling
-- [[foreclosure]] — 7yr/3yr EC; 90% LTV cap during 3-7yr window; no second home/cash-out before 7yr
-- [[short-sale-deed-in-lieu]] — 4yr/2yr EC; no additional LTV restrictions; includes mortgage charge-offs
-- [[nontraditional-credit-history]] — Full B3-5.4-01/02/03: 3 refs manual (2 DU), eligible types, documentation standards
-- [[past-due-collections-chargeoffs]] — DU: by occupancy; manual UW: by balance thresholds; medical carve-out
-- [[student-loan-payments]] — FNMA official: $0 IDR allowed with docs; 1% or fully amortizing for deferred/forbearance
-- [[minimum-tradelines]] — FNMA: qualitative assessment only for manual UW; no specific count required for DU
 
 ---
 

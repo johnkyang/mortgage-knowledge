@@ -4,6 +4,16 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-08 — Ingestion: FNMA Selling Guide (April 1, 2026) — Income Section (pp. 318–417)
+
+- **Source**: Selling-Guide_04-01-2026_Highlighted.pdf (trust level: official — FNMA)
+- **Pages created**: [[base-salary-hourly-income]] (stub → full, B3-3.3-01)
+- **Pages updated**: [[bonus-overtime-commission-income]] (upgraded FNMA section with official B3-3.3-02 trending/calculation rules; SEL-2026-02 confirmed no tax returns needed for commission), [[temporary-leave-income]] (upgraded FNMA section with official B3-3.3-09; added supplemental income formula with example; confirmed lender-must-not-ask rule), [[alimony-child-support-received]] (full rewrite with official B3-3.4-02; added disclosure/request requirement; confirmed child support nontaxable and gross-up eligible; lump sum equalization ineligible), [[social-security-retirement-income]] (upgraded FNMA section with official B3-3.4-15/18/03; confirmed 15% nontaxable requires NO documentation; added pension/annuity B3-3.4-03 detail; VA benefits official), [[trust-income]] (upgraded FNMA section with official B3-3.4-16; confirmed continuance is by income type; fixed/variable distinction official), [[self-employed-income]] (upgraded FNMA section with official B3-3.5-01; added written analysis requirements, Income Calculator/Form 1084, business liquidity ratios, business assets withdrawal analysis, SE co-borrower rules), [[rental-income]] (upgraded FNMA section with official B3-3.8-01; expanded FNMA borrower history/housing payment table; confirmed partnership/S-corp rental = SE income; gross rent reporting requirement), [[source-fnma-selling-guide-2026-04]] (added income section topics)
+- **Open questions added**: 0 (existing 2 remain)
+- **Notes**: Income section (B3-3.3 through B3-3.8, pp. 315–417) core topics ingested. Key FNMA rules confirmed as official: no minimum history for fixed base pay; 12-month minimum for variable base/bonus/overtime (2-year recommended); 15% of SS is automatically nontaxable without documentation; lender must not ask borrowers not currently on leave whether they plan to take leave; temporary leave supplemental income formula confirmed; alimony/child support borrower must disclose and request consideration; child support nontaxable and may be grossed up; trust income continuance determined by income type (rental = no continuance needed; depleting asset = 3 years); SE income requires Form 1084 or Income Calculator with retained Findings Report; rental income through partnership/S-corp must be evaluated as SE income. Sections B3-3.1/B3-3.2 (general income, employment standards, income calculator, VVOE) and some B3-3.4 subtopics (boarder, capital gains, foster care, MCC, notes receivable, public assistance, royalties, Section 8, unemployment benefits) and B3-3.6 (individual tax return analysis) not separately ingested as standalone pages.
+
+---
+
 ## 2026-04-08 — Ingestion: FNMA Selling Guide (April 1, 2026) — Credit Section (pp. 469–527)
 
 - **Source**: Selling-Guide_04-01-2026_Highlighted.pdf (trust level: official — FNMA)

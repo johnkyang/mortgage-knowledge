@@ -2,24 +2,33 @@
 title: Rental Income
 type: topic
 tags: [income, rental-income, schedule-e, investment-property, departure-residence]
-sources: [source-loandepot-conventional-guide-2026-03]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
 related: [self-employed-income, departure-residence, continuity-of-income, boarder-income, accessory-dwelling-units, multiple-financed-properties]
 confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Summary
 
-Rental income is acceptable qualifying income when it can be established as stable and likely to continue. Income is calculated either from Schedule E (tax returns) or from lease agreements (when tax return history is absent or inadequate). The calculation method, eligible properties, and documentation requirements differ significantly between subject property and non-subject property, and between FNMA and FHLMC.
+Rental income is acceptable qualifying income when it can be established as stable and likely to continue. Income is calculated either from Schedule E (tax returns) or from lease agreements (when tax return history is absent or inadequate). The calculation method, eligible properties, and documentation requirements differ significantly between subject property and non-subject property.
 
-## Key Rules
+## Key Rules — FNMA (B3-3.8-01)
 
-- Rental income is eligible from: 2–4-unit primary residences (borrower occupies one unit), and 1–4-unit investment properties. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Rental income from a **1-unit primary residence or second home** generally cannot be used to qualify, except for [[boarder-income]] or programs like HomeReady/Home Possible. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Rental income from **non-subject properties** has no property type restriction — commercial rental income is acceptable if documented per guidelines. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Rental income from properties reported through a partnership or S corporation must be analyzed as **self-employment income**. See [[self-employed-income]]. (Source: [[source-loandepot-conventional-guide-2026-03]])
-- Rental income does **not** require 3-year continuance documentation — it is on the indefinite-continuance list. (Source: [[source-loandepot-conventional-guide-2026-03]])
+**Eligible subject property rental income:**
+- 1-unit primary residence with an existing ADU (ADU rental only; up to 30% of total qualifying income; purchase or LCOR only)
+- 2–4-unit primary residence where borrower occupies one unit
+- 1–4-unit investment property
+
+**Non-subject property**: No property type restriction — commercial rental income is acceptable if otherwise documented per guidelines. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**Ineligible**: Rental income from the borrower's principal residence unit (1-unit primary or borrower-occupied unit in 2–4 unit) or second home cannot be used to qualify — exceptions for boarder income and ADU rental. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**Rental through partnership/S-corp**: Must be evaluated as self-employment income (B3-3.7-01/02) regardless of ownership percentage. Exception: if the business entity is responsible for the mortgage payment as reflected on the most recent business tax return, the full PITIA may be excluded from DTI. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**Gross monthly rent reporting**: Required for all 2–4-unit primary residences and investment properties in loan delivery data, regardless of whether rental income is used to qualify. (Source: [[source-fnma-selling-guide-2026-04]])
+
+**loanDepot consistency**: Rental income does not require 3-year continuance documentation — on the indefinite-continuance list. (Source: [[source-loandepot-conventional-guide-2026-03]])
 
 ## Net Rental Income Calculation
 
@@ -60,17 +69,35 @@ Add back to the reported net income:
 - Borrower's primary residence PITIA (or rent) is always counted separately as a monthly obligation
 (Source: [[source-loandepot-conventional-guide-2026-03]])
 
-## FNMA — Borrower History Requirements
+## FNMA — Borrower History and Housing Payment Requirements (B3-3.8-01)
 
-| Borrower Situation | Rental Income Restriction |
-|-------------------|--------------------------|
-| Owns primary residence (or has housing expense) + 1+ year rental history or property management experience | No restriction on income amount |
-| Owns primary residence + less than 1 year rental history — subject primary residence | Income cannot exceed PITIA of subject property |
-| Owns primary residence + less than 1 year rental history — subject investment property | Income can only offset PITIA |
-| Owns primary residence + less than 1 year rental history — non-subject new rental | Same restrictions as above by property type |
-| Does NOT own a primary residence and has no housing expense | Rental income from subject or non-subject property **cannot** be used |
+A **housing payment** is the total monthly expense for the borrower's primary residence (rent, PITIA, or property taxes/leasehold for non-mortgaged). The lender must document the housing payment if not otherwise on record.
 
-(Source: [[source-loandepot-conventional-guide-2026-03]])
+**Property Management Experience** is established by one of:
+- Most recent signed federal tax return including Schedule E reflecting 365 Fair Rental Days for any rental property
+- If owned 1+ year but less than 365 Fair Rental Days: current signed lease to supplement the return, OR
+- Two years of federal tax returns reflecting rental income (e.g., short-term rental)
+(Source: [[source-fnma-selling-guide-2026-04]])
+
+| Property Type | Has Housing Payment | Property Mgmt Experience | Restriction |
+|---|---|---|---|
+| 2–4 Unit Primary (subject) | Yes | Yes | No restriction |
+| 2–4 Unit Primary (subject) | Yes | No | Income cannot exceed PITIA |
+| 2–4 Unit Primary (subject) | No | N/A | No rental income can be used |
+| 1-Unit Primary with ADU (subject) | Yes | Yes | Limited to 30% of total qualifying income |
+| 1-Unit Primary with ADU (subject) | Yes | No | Limited to 30% of qualifying income and cannot exceed PITIA |
+| 1-Unit Primary with ADU (subject) | No | N/A | No rental income can be used |
+| 1–4 Unit Investment (subject) | Yes | Yes | No restriction |
+| 1–4 Unit Investment (subject) | Yes | No | Can only be used to offset PITIA |
+| 1–4 Unit Investment (subject) | No | N/A | No rental income can be used |
+| 2–4 Unit Primary (non-subject) | Yes | Yes | No restriction |
+| 2–4 Unit Primary (non-subject) | Yes | No | Cannot exceed PITIA |
+| 1–4 Unit Investment, new/newly placed in service (non-subject, includes departing residence) | Yes | Yes | No restriction |
+| 1–4 Unit Investment, new/newly placed in service (non-subject, includes departing residence) | Yes | No | Can only offset PITIA |
+| 1–4 Unit Investment, new/newly placed in service (non-subject, includes departing residence) | No | N/A | No rental income |
+| 1–4 Unit Investment, existing rental 1+ year (non-subject) | Yes | Yes or No | No restriction |
+
+(Source: [[source-fnma-selling-guide-2026-04]])
 
 **FHLMC exception**: Freddie Mac does NOT require the borrower to currently own a primary residence to use rental income when purchasing a 2–4 unit primary residence. FHLMC does not consider a 2–4 unit primary residence a rental property. (Source: [[source-loandepot-conventional-guide-2026-03]])
 
@@ -163,4 +190,5 @@ _(add scenario pages as created)_
 
 ## Sources
 
+- [[source-fnma-selling-guide-2026-04]] — Fannie Mae Selling Guide, April 1, 2026, B3-3.8-01, pp. 388–398 (most recently updated per SEL-2025-08, October 8, 2025)
 - [[source-loandepot-conventional-guide-2026-03]] — loanDepot Conventional Lending Guide, March 2026, pp. 220–241
