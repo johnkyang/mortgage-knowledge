@@ -1,84 +1,117 @@
 ---
 title: Derogatory Credit Event Seasoning (Waiting Periods)
 type: topic
-tags: [credit, derogatory, bankruptcy, foreclosure, seasoning]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [credit-score-selection, mortgage-history]
-confidence: needs-review
+tags: [credit, derogatory, bankruptcy, foreclosure, seasoning, waiting-period]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [bankruptcy, foreclosure, short-sale-deed-in-lieu, credit-score-requirements, mortgage-history, nontraditional-credit-history]
+confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Overview
 
-Significant derogatory credit events dramatically increase the likelihood of future default. The waiting period is the time that must elapse after a derogatory event before the borrower is eligible for a new mortgage. Events covered include bankruptcies, foreclosures, deeds-in-lieu, short sales, and charge-offs of mortgage accounts. (Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.317–320)
+Significant derogatory credit events dramatically increase the likelihood of future default. The waiting period is the time that must elapse after a derogatory event before the borrower is eligible for a new Fannie Mae loan. This page summarizes all waiting periods in one place — see the individual event pages ([[bankruptcy]], [[foreclosure]], [[short-sale-deed-in-lieu]]) for full details and DU-specific treatment. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
 
 ---
 
 ## Key Rules
 
-### FNMA — Waiting Period Clock
+### Waiting Period Clock
 
-- (Lender note: The waiting period commences on the completion, discharge, or dismissal date — as applicable — of the derogatory event, and ends on the disbursement date of the new loan) (Source: [[source-loandepot-conventional-guide-2026-03]], p.318)
-- (Lender note: If a mortgage debt was discharged through bankruptcy, the bankruptcy waiting periods may apply, provided documentation confirms the discharge. Otherwise the greater of the applicable bankruptcy or foreclosure waiting period applies) (Source: [[source-loandepot-conventional-guide-2026-03]], p.318)
+- The waiting period commences on the **completion, discharge, or dismissal date** (as applicable) of the derogatory event
+- The waiting period ends on the **disbursement date** of the new loan (for manually underwritten loans)
+- For DU: DU uses the **credit report date** to measure compliance; the lender may use the disbursement date to confirm the waiting period has been met when the credit report date does not produce an accurate calculation
+- Note: Timeshare accounts are considered installment loans and are **not subject to** waiting periods even if reported as mortgage tradelines
 
-### FNMA — Waiting Period Table
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07, B3-5.3-09)
+
+### Complete Waiting Period Table
 
 | Derogatory Event | Standard Waiting Period | With Extenuating Circumstances |
 |---|---|---|
-| Bankruptcy Chapter 7 or 11 | 4 years | 2 years |
-| Bankruptcy Chapter 13 (discharge) | 2 years from discharge date | 2 years from discharge date |
-| Bankruptcy Chapter 13 (dismissal) | 4 years from dismissal date | 2 years from dismissal date |
-| Multiple bankruptcy filings (>1 in past 7 years) | 5 years | 3 years from most recent discharge or dismissal |
-| Foreclosure | 7 years | 3 years (with restrictions — see FNMA B3-5.3-07) |
-| Deed-in-Lieu / Short Sale / Charge-Off of mortgage account | 4 years | 2 years |
+| Bankruptcy — Chapter 7 or 11 | 4 years from discharge or dismissal | 2 years from discharge or dismissal |
+| Bankruptcy — Chapter 13 (discharged) | 2 years from discharge date | 2 years (no EC exception) |
+| Bankruptcy — Chapter 13 (dismissed) | 4 years from dismissal date | 2 years from dismissal date |
+| Multiple bankruptcies (>1 filing in past 7 years) | 5 years from most recent discharge/dismissal | 3 years from most recent discharge/dismissal (most recent filing must be EC-related) |
+| Foreclosure | 7 years from completion date | 3 years + additional restrictions on LTV/occupancy |
+| Deed-in-Lieu / Short Sale / Preforeclosure Sale / Mortgage Charge-Off | 4 years from completion date | 2 years from completion date |
 
-(Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.318)
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
+
+### Foreclosure Extenuating Circumstances — Additional Restrictions (3–7 Years)
+
+Between 3 and 7 years post-foreclosure with EC:
+- Max LTV/CLTV/HCLTV: lesser of **90%** or the program maximum per Eligibility Matrix
+- **Principal residence purchases**: permitted
+- **Limited cash-out refinances**: permitted for all occupancy types
+- **Second home or investment property purchases**: NOT permitted
+- **Cash-out refinances**: NOT permitted for any occupancy type
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
 
 ### Extenuating Circumstances — Definition and Documentation
 
-- (Lender note: Extenuating circumstances are non-recurring events, beyond the borrower's control, that result in a sudden, significant, and prolonged reduction in income or a catastrophic increase in financial obligations) (Source: [[source-loandepot-conventional-guide-2026-03]], p.318)
+**Definition**: Nonrecurring events beyond the borrower's control that result in a sudden, significant, and prolonged reduction in income or a catastrophic increase in financial obligations. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-08)
 
-Required documentation to substantiate extenuating circumstances claim: (Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.319)
-- Documentation confirming the event (e.g., divorce decree, medical reports/bills, notice of job layoff, severance papers)
-- Documents illustrating factors that contributed to the borrower's inability to resolve problems (e.g., insurance papers/claim settlements, property listing agreements, lease agreements, tax returns covering the period before/during/after loss of employment)
-- A written explanation from the borrower supporting the extenuating circumstances claim, confirming the nature of the event, and illustrating that there were no reasonable options other than to default
+Required documentation:
+- Documents confirming the event (divorce decree, medical reports/bills, layoff notice, severance papers)
+- Documents showing factors that prevented the borrower from resolving the problem (insurance papers, property listing agreements, lease agreements, tax returns covering the period before/during/after the event)
+- Written explanation from the borrower: must support the EC claim, confirm the nature of the event, and illustrate that the borrower had no reasonable options other than to default
 
-(Lender note: The written explanation may be a letter, email, or other written documentation provided by the borrower) (Source: [[source-loandepot-conventional-guide-2026-03]], p.319)
+The written explanation may be a letter, email, or other written documentation provided by the borrower. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-08)
 
-### FNMA — Inaccurate Bankruptcy on Credit Report
+### Foreclosure and Bankruptcy on the Same Mortgage
 
-- (Lender note: If DU identifies a bankruptcy that is inaccurate: enter `Confirmed CR BK Incorrect` in the online application and resubmit. DU will disregard the bankruptcy in eligibility assessment) (Source: [[source-loandepot-conventional-guide-2026-03]], p.319)
-  - Must document that Chapter 13 was discharged ≥2 years or dismissed ≥4 years from disbursement date, OR that non-Chapter 13 bankruptcy was discharged or dismissed ≥4 years from disbursement date
-- (Lender note: If DU identifies a bankruptcy due to extenuating circumstances: enter `Confirmed CR BK EC` and resubmit) (Source: [[source-loandepot-conventional-guide-2026-03]], p.319–320)
-  - Must document bankruptcy was due to extenuating circumstances, AND Chapter 13 was dismissed ≥2 years OR non-Chapter 13 was discharged or dismissed ≥2 years from disbursement date
+If a mortgage debt was discharged through bankruptcy, the **bankruptcy waiting periods may apply** provided the lender obtains documentation confirming the discharge. Otherwise, the **greater of** the applicable bankruptcy or foreclosure waiting period must be applied. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
 
-### FNMA — Inaccurate Foreclosure on Credit Report
+### Multiple Bankruptcy Clarification
 
-- (Lender note: If DU identifies an inaccurate foreclosure: enter `Confirmed CR FC Incorrect` and resubmit) (Source: [[source-loandepot-conventional-guide-2026-03]], p.320)
-  - Must document the foreclosure was completed ≥7 years from disbursement, or that the account was not subject to foreclosure
-- (Lender note: If DU identifies a foreclosure due to extenuating circumstances: enter `Confirmed CR FC EC` and resubmit) (Source: [[source-loandepot-conventional-guide-2026-03]], p.320)
-  - Must document: foreclosure was due to extenuating circumstances, completed ≥3 years from disbursement, and loan complies with all other extenuating circumstances requirements
+Two borrowers each with one individual bankruptcy is **not** considered multiple bankruptcies. Multiple bankruptcies means one borrower with more than one filing. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
 
-### FHLMC — Derogatory Credit Seasoning
+### Re-establishing Credit Requirements
 
-- (Lender note: For FHLMC, follow LPA Accept findings. LPA has evaluated the borrower's credit reputation and determined it is acceptable) (Source: [[source-loandepot-conventional-guide-2026-03]], p.320)
+After any derogatory event, credit is considered re-established when ALL of:
+1. Waiting period and additional requirements are met
+2. DU Approve/Eligible, or if manual UW, minimum credit score requirements are met
+3. The borrower has **traditional credit** — nontraditional credit/thin files are NOT acceptable
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
+
+### DU Override Entries
+
+When DU identifies a derogatory event and the information is inaccurate or extenuating circumstances apply, the lender enters the following in the online loan application before resubmitting to DU:
+
+| Scenario | Entry Code |
+|---|---|
+| Inaccurate bankruptcy | `Confirmed CR BK Incorrect` |
+| Bankruptcy due to extenuating circumstances | `Confirmed CR BK EC` |
+| Inaccurate foreclosure | `Confirmed CR FC Incorrect` |
+| Foreclosure due to extenuating circumstances | `Confirmed CR FC EC` |
+| Inaccurate mortgage delinquency | `Confirmed Mtg Del Incorrect` |
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-09)
 
 ---
 
-## GSE Resources Referenced
+## Exceptions & Nuances
 
-- FNMA Selling Guide: B3-5.3-07 (Significant Derogatory Credit Events — Waiting Periods and Re-establishing Credit)
-- FHLMC Seller Guide: 5202.5 (Adverse or Derogatory Credit Information)
+### High LTV Refinance Loans
 
-(Source: [[source-loandepot-conventional-guide-2026-03]], p.320–321)
+Significant derogatory credit event waiting periods do **not apply** to high LTV refinance loans (see B5-7-02). (Source: [[source-fnma-selling-guide-2026-04]], B3-5.3-07)
+
+### FHLMC — Derogatory Credit Seasoning
+
+(Lender note: For FHLMC, follow LPA Accept findings. LPA evaluates the borrower's credit reputation and determines if it is acceptable.) (Source: [[source-loandepot-conventional-guide-2026-03]], p.320)
 
 ---
 
 ## Interpretation Notes
 
-⚠️ For FHLMC, this section essentially defers entirely to LPA findings rather than publishing a separate waiting period table. In practice, LPA applies its own seasoning logic. Underwriters should not assume FHLMC waiting periods mirror FNMA's table above.
+⚠️ The DU override entries are entered in the online loan application — not directly in DU. Document thoroughly when these entries are made.
 
-⚠️ The DU override entries (`Confirmed CR BK Incorrect`, `Confirmed CR BK EC`, etc.) are entered in the online application — not in DU directly. This is a loanDepot/DU-specific process. Document thoroughly when these entries are made.
+⚠️ There is NO extenuating circumstances exception for a Chapter 13 discharge (already 2 years). EC only helps for Chapter 13 dismissals (reduces 4 years to 2).
 
-⚠️ Multiple bankruptcy filings (5-year rule) applies when there is more than one bankruptcy filing within the past 7 years — not just multiple discharges. Counting from the most recent discharge/dismissal.
+⚠️ The multiple bankruptcy filing 5-year rule applies when there is more than one bankruptcy filing within the past 7 years — counting from the most recent discharge/dismissal date.
+
+⚠️ After any derogatory event, nontraditional credit references do not satisfy the re-establishing credit requirement. Traditional credit (reported to credit bureaus) and a credit score are required.

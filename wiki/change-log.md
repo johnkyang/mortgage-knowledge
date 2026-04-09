@@ -4,6 +4,16 @@ _Running log of all ingestion, edits, lint runs, and scenario builds._
 
 ---
 
+## 2026-04-08 — Ingestion: FNMA Selling Guide (April 1, 2026) — Credit Section (pp. 469–527)
+
+- **Source**: Selling-Guide_04-01-2026_Highlighted.pdf (trust level: official — FNMA)
+- **Pages created**: [[credit-score-requirements]], [[dti-limits]], [[minimum-tradelines]], [[bankruptcy]], [[foreclosure]], [[short-sale-deed-in-lieu]]
+- **Pages updated**: [[derogatory-credit-event-seasoning]] (upgraded lender notes to official citations; added DU override codes, timeshare exception, multiple BK clarification), [[credit-score-selection]] (upgraded to official; added average median score calculation, foreign credit report rules), [[past-due-collections-chargeoffs]] (upgraded to official; added DU vs. manual UW distinction, B3-5.3-09 vs. B3-6-07 separation), [[authorized-user-accounts]] (upgraded FNMA DU and manual UW sections to official citations per B3-5.3-06 and B3-5.3-09), [[nontraditional-credit-history]] (full upgrade with B3-5.4-01/02/03 content: eligibility, reference counts, reference types, documentation standards, quality standards), [[no-credit-score-borrowers]] (added official FNMA eligibility rules; clarified loanDepot overlays), [[student-loan-payments]] (upgraded FNMA section to official citation from B3-6-05)
+- **Open questions added**: 0
+- **Notes**: Credit section (pp. 469–527, B3-5.1 through B3-6-08) fully ingested from the FNMA Selling Guide (April 1, 2026 edition). Key FNMA rules confirmed as official: no minimum credit score for DU loans (DU performs holistic assessment); manual UW minimum 620 fixed / 640 ARM; maximum DTI 36%/45% manual, 50% DU; nontraditional credit requires 3 references manual (2 for DU), 4 for HomeReady; $0 IDR student loan payment allowed with documentation (FNMA only); collections on 1-unit primary need not be paid regardless of amount (DU); authorized user tradelines excluded in manual UW unless borrower documented as sole payer for 12+ months. All lender notes from loanDepot guide for these pages are now confirmed/corrected against official source. Ingested sections B3-5.1-01, B3-5.1-02, B3-5.2-01 through B3-5.2-03, B3-5.3-01 through B3-5.3-09, B3-5.4-01 through B3-5.4-03, B3-6-01 through B3-6-08.
+
+---
+
 ## 2026-04-08 — Ingestion: loanDepot Conventional Guide — Military Income (pp. 195–196)
 
 - **Source**: Guide_Conventional.pdf (trust level: lender)

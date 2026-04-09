@@ -2,52 +2,150 @@
 title: Nontraditional Credit History
 type: topic
 tags: [credit, nontraditional-credit, credit-score, borrower-eligibility]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [no-credit-score-borrowers, credit-score-selection, credit-bureau-report-requirements]
-confidence: needs-review
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [no-credit-score-borrowers, credit-score-requirements, credit-score-selection, credit-bureau-report-requirements]
+confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Overview
 
-When nontraditional credit history is required (typically for borrowers with no traditional credit scores), specific reference and documentation requirements apply. At least one borrower must have a housing payment history reference. (Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
+When one or more borrowers lack a credit score or have insufficient traditional credit, the lender may establish an acceptable nontraditional credit history. Requirements differ significantly between manually underwritten and DU-underwritten loans, and between standard loans and HomeReady. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-01)
 
 ---
 
 ## Key Rules
 
-### Minimum Reference Requirements
+### Eligibility Requirements
 
-- (Lender note: A minimum of two credit references must be rated for the most recent 12 months for each borrower) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
-- (Lender note: At least one borrower must have a housing payment history as one of the credit references) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
+#### Manual Underwriting — Nontraditional Credit
+The following requirements apply when at least one borrower lacks a credit score and relies on nontraditional credit:
 
-### Quality Standards for Each Reference
+- Property must be a **1-unit, principal residence**
+- Non-occupant co-borrowers are permitted (subject to B2-2-04 requirements)
+- Transaction must be a **purchase or limited cash-out refinance**
+- Loan amount must meet **baseline conforming loan limits** — high-balance loans are not eligible
+- Maximum DTI: **36%**
+- Reserve requirement:
+  - If at least one borrower documents a housing payment as a nontraditional credit reference → **no minimum reserve requirement**
+  - If no borrower documents a housing payment → **minimum 12 months' reserves required**
 
-- (Lender note: All housing payment histories must have no 30-day or greater delinquencies in the most recent 12 months) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
-- (Lender note: Only one credit reference, excluding housing payments, can have a 30-day delinquency in the past 12 months) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
-- (Lender note: No collections — other than medical collections — or judgments may have been filed in the past 24 months) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-01)
 
-### GSE-Specific Requirements
+#### DU Loan Casefiles — Nontraditional Credit
+- If at least one borrower has **at least one credit account or installment account** on their credit report → DU uses standard eligibility guidelines (no special nontraditional credit requirements)
+- If **no borrower** has at least one credit or installment account → DU applies these additional requirements:
+  - Property: **1–4 unit, principal residence**, all borrowers must occupy
+  - Transaction: purchase or limited cash-out refinance only
+  - Reserves may be required as determined by DU
+  - **No verification of nontraditional credit references** required if DU conducts a cash flow assessment via a third-party asset verification report
+  - Otherwise, nontraditional credit history must be documented for each borrower per DU instructions
 
-- (Lender note: FNMA — For additional nontraditional credit history requirements, follow B3-5.4-02 (Number and Types of Nontraditional Credit References) and B3-5.4-03 (Documentation and Assessment of a Nontraditional Credit History)) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
-- (Lender note: FHLMC — For additional nontraditional credit history requirements, follow 5201.1 (Credit Assessment with Loan Product Advisor)) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-01)
+
+#### Unacceptable Uses of Nontraditional Credit
+
+Nontraditional credit history **cannot** be used when:
+- The lender is able to obtain a credit score despite limited credit use
+- The borrower has sufficient credit to generate a score, but the score is below the minimum required
+- The borrower's traditional credit history shows significant derogatory information (prior bankruptcy, foreclosure) — in these cases the borrower must re-establish traditional credit with a credit score per B3-5.3-07
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-01)
+
+### Number of Required Nontraditional Credit References
+
+| Underwriting Method | Standard Loans | HomeReady Loans |
+|---|---|---|
+| Manual | **3 references** per no-score borrower | **4 references** per no-score borrower (with exception: if a borrower can't document any references, the loan is still eligible if that borrower contributes no more than 30% of qualifying income) |
+| DU | **2 references** per borrower (if DU requires nontraditional credit history to be documented) | Same as standard |
+| DU (with cash flow assessment) | No nontraditional credit references required if DU issues qualifying message | Same |
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-02)
+
+### Eligible Types of Nontraditional Credit References
+
+References must require the borrower to make periodic payments at intervals no longer than every 3 months.
+
+**Acceptable housing payments** (highest priority — DU requires housing payment as one reference):
+- Rent paid to a landlord or management company
+- Privately held mortgage loan payments (contract for deed, etc.)
+- Real estate taxes on principal residence (for homes owned free and clear) — any payment frequency permitted
+
+**Other acceptable references:**
+- Utilities (electricity, gas, water, telephone, TV, internet) — only if separately documented from housing payment
+- Medical insurance coverage (excluding payroll deductions)
+- Automobile insurance
+- Cell phone payments
+- Life insurance (excluding payroll deductions)
+- Property or renter's insurance payments
+- Payments to local stores (department, furniture, appliance)
+- Rental/lease payments for durable goods (automobiles)
+- Medical bills
+- School tuition
+- Childcare payments
+- Loans from individuals (with documented written repayment agreement)
+- Checking/savings account balance growing from periodic deposits over 12+ months (contributions no less than quarterly)
+- Wire remittance statements showing consistent amounts over 12 months
+
+**DU-specific**: DU loans requiring nontraditional credit **must** include housing payments as one reference. Manual underwriting does NOT require housing payments (but requires 12 months reserves if no borrower has housing history). (Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-02)
+
+### Documentation Requirements
+
+Documentation must cover the **most recent consecutive 12 months** for each reference. All references must be documented — not just positive ones.
+
+**Housing payment documentation:**
+- Canceled checks, bank statements, money order copies, or other methods showing payee and consistent payment
+- Direct verification from a landlord (individual or management company)
+
+**Individual credit references (from creditor):**
+- Creditor name, date opened, highest credit amount, current status, required payment, unpaid balance, and payment history in "number of times past due" format ("0 X 30, 0 X 60, 0 X 90")
+- Vague statements like "current," "satisfactory," or "pays as agreed" are **not acceptable** by themselves
+
+**Documentation from borrower:**
+- Documents describing repayment terms plus canceled checks or bills marked "paid" for 12 months
+- Bank statement withdrawals or debits clearly showing payee and consistent payments
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-03)
+
+### Payment History Quality Standards
+
+For each nontraditional credit reference:
+- **No delinquency on housing payments** in the past 12 months
+- Only **one account** (excluding housing) may have a 30-day delinquency in the past 12 months
+- **No collections** (other than medical) or judgments filed in the past **24 months**
+- Judgments, liens, and non-medical collections must be satisfied per B3-6-07 (manual UW) or B3-5.3-09 (DU)
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-03)
+
+### Special Borrower Situations
+
+**Borrowers with disabilities**: A court-appointed guardian, SSA representative payee, or parent may provide documentation if they manage the borrower's financial transactions, maintain records, and use credit accounts held jointly in the name of the person with disabilities.
+
+**Non-U.S. citizens and foreign borrowers**: Must use foreign country credit references to achieve the required number of references and establish a nontraditional credit profile.
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-03)
 
 ---
 
-## GSE Resources Referenced
+## Exceptions & Nuances
 
-- FNMA Selling Guide: B3-5.4-02, B3-5.4-03
-- FHLMC Seller Guide: 5201.1
+### HomeReady — Lower Credit Score Exception
 
-(Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
+HomeReady manually underwritten loans have an exception permitting a borrower with a low (but existing) credit score to qualify. This is separate from the no-credit-score nontraditional credit path. See B5-6-02 for details. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.4-01)
+
+### loanDepot Overlay
+
+(Lender note: loanDepot may impose additional restrictions on nontraditional credit qualifying. Check the applicable product matrix. Per loanDepot policy, a minimum of 2 nontraditional credit references rated for 12 months is required, with at least one borrower having a housing payment reference.) (Source: [[source-loandepot-conventional-guide-2026-03]], p.324)
 
 ---
 
 ## Interpretation Notes
 
-⚠️ This section covers the loanDepot minimum standards. The GSE selling guides (B3-5.4-02, B3-5.4-03 for FNMA) contain additional requirements around acceptable reference types and documentation methods. Those GSE sections have not yet been ingested — flag for future ingestion.
+⚠️ The FNMA 3-reference requirement (4 for HomeReady) is for manual underwriting. DU only requires 2 references if it determines nontraditional credit must be documented. If DU performs a cash flow assessment with a 12-month asset verification report, no references may be needed at all.
 
-⚠️ "Housing payment history" typically means rent payments, but can include mortgage payments on a property not owned by the borrower (e.g., paying a relative's mortgage). FNMA B3-5.4-02 defines acceptable reference types more specifically.
+⚠️ Utilities included in the housing payment cannot also be counted as a separate nontraditional credit reference. Only utilities that can be separately documented count.
 
-⚠️ The medical collections carve-out in the 24-month rule is consistent with FNMA's broader policy of excluding medical collections from adverse credit analysis. See [[past-due-collections-chargeoffs]] for the same carve-out in a different context.
+⚠️ Nontraditional credit cannot be used after a significant derogatory event (bankruptcy/foreclosure) as a substitute for re-establishing traditional credit. The borrower must have a credit score and traditional tradelines once the waiting period expires.
+
+⚠️ The 24-month no-collections rule for nontraditional credit references is stricter than FNMA's general collections policy (which allows unpaid collections on 1-unit primary residences). Different rules apply to the nontraditional credit path.

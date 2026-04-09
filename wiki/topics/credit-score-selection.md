@@ -1,64 +1,92 @@
 ---
 title: Credit Score Selection (Representative Credit Score)
 type: topic
-tags: [credit, credit-score, eligibility]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [credit-bureau-report-requirements, frozen-credit-bureaus, no-credit-score-borrowers]
-confidence: needs-review
+tags: [credit, credit-score, eligibility, fico]
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [credit-score-requirements, credit-bureau-report-requirements, frozen-credit-bureaus, no-credit-score-borrowers]
+confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Overview
 
-Credit scores must be requested from all three repositories when ordering a tri-merge report. The "representative credit score" is then determined from each borrower's individual scores and used for loan eligibility and pricing. (Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.316–317)
+The representative credit score is determined by selecting a single score for each borrower, then taking the lowest score across all borrowers. It is used for loan eligibility (manually underwritten loans) and for pricing (LLPAs on all loans). A separate "average median credit score" calculation applies only to manually underwritten multi-borrower loans for determining eligibility. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-02)
 
 ---
 
 ## Key Rules
 
-### When Only One or Two Repositories Have Data
+### Step 1 — Select Individual Score Per Borrower
 
-- (Lender note: If one or two repositories have no credit information, the credit report is still acceptable if: (1) credit data is available from at least one repository, (2) a credit score is obtained from that repository, and (3) a three in-file merged report was requested) (Source: [[source-loandepot-conventional-guide-2026-03]], p.316)
+Fannie Mae recommends obtaining at least **two credit scores per borrower**:
 
-### FHLMC — Determining Representative Credit Score
+| Scores Available | Score to Select |
+|---|---|
+| Three scores | **Middle score** |
+| Two of three identical | Middle of the three (e.g., 700/680/680 → 680; 700/700/680 → 700) |
+| Two scores | **Lower score** |
+| One score | That score is used |
 
-- (Lender note: **Single borrower**: The single applicable score used to underwrite that borrower is the representative credit score) (Source: [[source-loandepot-conventional-guide-2026-03]], p.316)
-- (Lender note: **Multiple borrowers**: The applicable credit score must be determined for each borrower individually; the lowest applicable score from the group is the representative credit score for the mortgage) (Source: [[source-loandepot-conventional-guide-2026-03]], p.316)
-- (Lender note: **Borrower without a credit score**: The representative credit score is determined based on the scores of the other borrowers on the mortgage) (Source: [[source-loandepot-conventional-guide-2026-03]], p.316)
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-02)
 
-**Per-borrower score selection method (FHLMC):**
-- When three scores are obtained: choose the **middle score** (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
-- If two of the three scores are the same: choose the **middle of the three scores** (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
-  - Example: Scores 700 / 680 / 680 → representative = **680**
-  - Example: Scores 700 / 700 / 680 → representative = **700**
-- When two scores are obtained: choose the **lower score** (subject to frozen credit guidelines) (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
-- When one score is obtained: that score is the underwriting score (subject to frozen credit guidelines) (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
+### Step 2 — Determine Representative Credit Score for the Loan
 
-### FNMA — Determining Representative Credit Score
+| Borrowers on Loan | Representative Credit Score |
+|---|---|
+| One borrower | The single borrower's selected score |
+| Multiple borrowers | **Lowest** applicable score from across all borrowers |
+| Borrower without a credit score | Based on the credit scores of the other borrowers |
 
-- (Lender note: DU determines credit eligibility using a minimum credit risk standard rather than a minimum credit score. This standard is based on DU's credit assessment, which evaluates multiple credit risk factors as outlined in DU Selling Guidelines — Risk Factors Evaluated by DU) (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-02)
 
-### Additional Considerations
+### Average Median Credit Score — Manual Underwriting Only
 
-- (Lender note: Borrowers with foreign credit and/or a foreign credit score are ineligible for a Fannie Mae or Freddie Mac loan) (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
-- (Lender note: Refer to the product-specific program matrix for minimum credit score requirements) (Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
+For certain manually underwritten transactions with multiple borrowers, the **average median credit score** is used **in place of** the representative credit score to determine if the minimum credit score requirement is met:
+
+- Step 1: Determine each borrower's median score
+- Step 2: Average all borrowers' median scores → this is the average median credit score
+
+**Example**:
+- Borrower 1 scores: 590 / 605 / 648 → median = 605
+- Borrower 2 scores: 661 / 693 / 693 → median = 693
+- Average median = (605 + 693) / 2 = **649**
+- Representative credit score = **605** (lowest median, still used for LLPAs)
+
+The average median is used for eligibility; the representative (lowest median) is always used for pricing. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-02)
+
+### When Data Is Missing from Repositories
+
+- **One or two repositories have no data**: Report is acceptable if credit data is available from at least one repository AND a three in-file merged report was requested
+- **One repository is frozen**: Report is acceptable if credit data is available from two repositories AND a three in-file merged report was requested
+- **Two or more repositories frozen**: Loan is **not eligible** for delivery to Fannie Mae, whether manually or DU underwritten
+
+(Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-01)
+
+### Foreign Credit Reports and Scores
+
+Fannie Mae permits the use of a foreign country credit report to document credit history (except for DU loan casefiles). However, foreign credit scores **cannot** be used to establish eligibility or delivered to Fannie Mae unless the score is a classic FICO score meeting B3-5.1-01 requirements.
+
+Foreign credit reports must meet the standards for domestic reports and must be in English or include an English translation. Borrowers relying on foreign credit reports for credit history must be manually underwritten. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-02)
 
 ---
 
-## GSE Resources Referenced
+## Exceptions & Nuances
 
-- FNMA Selling Guide: B3-2-03 (Risk Factors Evaluated by DU)
-- FHLMC Seller/Servicer Guide: 5203.2 (Credit Scores), 5201.1 (Credit Assessment with LPA)
+### DU Risk Assessment vs. Representative Credit Score
 
-(Source: [[source-loandepot-conventional-guide-2026-03]], p.317)
+DU does not use the representative credit score as an eligibility threshold — DU performs its own holistic analysis. The representative credit score is delivered at Loan Delivery and is used for LLPA pricing. (Source: [[source-fnma-selling-guide-2026-04]], B3-5.1-01)
+
+### FHLMC — Credit Score Selection
+
+(Lender note: FHLMC uses the same middle/lower score selection logic. Single borrower: the single applicable score. Multiple borrowers: lowest applicable score from the group. Non-credit-score borrower: based on other borrowers' scores.) (Source: [[source-loandepot-conventional-guide-2026-03]], p.316–317)
 
 ---
 
 ## Interpretation Notes
 
-⚠️ The FHLMC middle-score rule applies per borrower; then the lowest of each borrower's representative score is used for the loan. This two-step process (per-borrower then across borrowers) can trip up underwriters who apply the "lowest middle" incorrectly.
+⚠️ The two-step process (per-borrower then across borrowers) can trip up underwriters. Each borrower's individual score must be determined first (using middle/lower rules), and THEN the lowest of all borrowers' individual scores is selected as the loan's representative credit score.
 
-⚠️ FNMA's DU-driven credit assessment means there is no single threshold score that guarantees eligibility. DU evaluates overall credit risk holistically. However, loanDepot product matrices still impose minimum credit score floors — always check the matrix.
+⚠️ The average median credit score is only relevant to manually underwritten loans for eligibility determination. It does not apply to DU loans, and it does not affect LLPA pricing.
 
-⚠️ Frozen credit bureau rules affect which scores are available. See [[frozen-credit-bureaus]] for scoring logic when one repository is frozen.
+⚠️ Foreign credit scores on foreign report formats cannot be used even if the score number happens to match the FICO scale. Only actual classic FICO scores from qualifying bureaus are acceptable.

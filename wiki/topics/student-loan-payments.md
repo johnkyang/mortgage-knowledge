@@ -2,16 +2,16 @@
 title: Student Loan Payments
 type: topic
 tags: [liabilities, student-loans, ibr, deferred, dti]
-sources: [source-loandepot-conventional-guide-2026-03]
-related: [liabilities-overview, total-monthly-debt-obligations]
-confidence: needs-review
+sources: [source-fnma-selling-guide-2026-04, source-loandepot-conventional-guide-2026-03]
+related: [liabilities-overview, total-monthly-debt-obligations, dti-limits]
+confidence: verified
 status: active
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 ---
 
 ## Overview
 
-Student loans in repayment, deferment, or forbearance must be included in DTI. The qualifying payment varies by GSE and repayment plan type. FHLMC does not permit a $0 student loan payment. (Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.270–272)
+Student loans in repayment, deferment, or forbearance must be included in DTI. The qualifying payment varies by GSE and repayment plan type. FNMA permits $0 for verified IDR plans; FHLMC does not permit a $0 student loan payment. (Source: [[source-fnma-selling-guide-2026-04]], B3-6-05)
 
 ---
 
@@ -23,10 +23,10 @@ Student loans in repayment, deferment, or forbearance must be included in DTI. T
 |---|---|
 | Credit report reflects a monthly payment | Use that amount |
 | Credit report does not reflect the correct payment | Use the payment on the most recent student loan statement |
-| Credit report shows $0 or no payment; borrower is on income-driven repayment (IDR) | Obtain documentation confirming $0 actual payment; $0 may be used |
-| Deferred or in forbearance | Use the **greater of**: 1% of outstanding balance OR a fully amortizing payment based on documented loan repayment terms |
+| Credit report shows $0 or no payment; borrower is on income-driven repayment (IDR) | Obtain student loan documentation confirming $0 actual monthly payment; **$0 may be used** |
+| Deferred or in forbearance | Use **either**: 1% of outstanding student loan balance (even if lower than fully amortizing payment), OR a fully amortizing payment using documented loan repayment terms |
 
-(Lender note: Source: [[source-loandepot-conventional-guide-2026-03]], p.270–271)
+(Source: [[source-fnma-selling-guide-2026-04]], B3-6-05)
 
 ### FHLMC — Student Loan Payment Determination
 
